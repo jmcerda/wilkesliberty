@@ -1,0 +1,64 @@
+baseURL = "https://www.wilkesliberty.com/"
+languageCode = "en-us"
+title = "Wilkes & Liberty"
+theme = "ananke"
+
+[params]
+custom_css = ["css/custom.css"]
+description = "Defending digital liberty with privacy-first solutions."
+
+# Main navigation items
+[[menu.main]]
+identifier = "technology"
+name = "Technology"
+url = "/technology/"
+weight = 1
+
+[[menu.main]]
+identifier = "product-solutions"
+name = "Product Solutions"
+url = "/product-solutions/"
+weight = 2
+
+[[menu.main]]
+identifier = "product-services"
+name = "Product Services"
+url = "/product-services/"
+weight = 3
+
+[[menu.main]]
+identifier = "industries"
+name = "Industries"
+url = "/industries/"
+weight = 4
+
+# Technology submenu items
+[[menu.main]]
+name = "Focus"
+url = "/technology/focus/"
+weight = 11
+parent = "technology"
+
+[[menu.main]]
+name = "Intelligence"
+url = "/technology/intelligence/"
+weight = 12
+parent = "technology"
+
+[[menu.main]]
+name = "Infrastructure"
+url = "/technology/infrastructure/"
+weight = 13
+parent = "technology"
+
+[[menu.main]]
+name = "Identity"
+url = "/technology/identity/"
+weight = 14
+parent = "technology"
+
+[[menu.main]]
+name = "Security"
+url = "/technology/security/"
+weight = 15
+parent = "technology"

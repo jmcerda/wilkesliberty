@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Product Solutions</title>
+  
+<link rel="stylesheet" href="/ananke/css/main.min.8d048772ae72ab11245a0e296d1f2a36d3e3dd376c6c867394d6cc659c68fc37.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/css/custom.css">
+  
+
+
+
+<style>
+  :root {
+    --accent: #5E2CED;   
+    --primary: #000000;  
+    --text: #FFFFFF;     
+    --secondary-bg: #1a1a1a;  
+    --border-color: #333333;  
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary);
+    color: var(--text);
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .main-content {
+    padding: 2rem 0;
+    background-color: var(--primary);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--accent);
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+    color: var(--text);
+  }
+  
+   
+  .site-header {
+    background: var(--secondary-bg);
+    border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0;
+  }
+  
+  .site-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--text);
+  }
+  
+  .site-title:hover {
+    color: var(--accent);
+  }
+  
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+  }
+  
+  .nav-item {
+    position: relative;
+  }
+  
+  .nav-item > a {
+    text-decoration: none;
+    color: var(--text);
+    padding: 0.5rem 0;
+    display: block;
+    font-weight: 500;
+  }
+  
+  .nav-item > a:hover {
+    color: var(--accent);
+  }
+  
+   
+  .submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    min-width: 200px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+  }
+  
+  .has-submenu:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  
+  .submenu li {
+    margin: 0;
+  }
+  
+  .submenu a {
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.9rem;
+  }
+  
+  .submenu a:hover {
+    background: var(--primary);
+    color: var(--accent);
+  }
+  
+   
+  .site-footer {
+    background: var(--secondary-bg);
+    border-top: 1px solid var(--border-color);
+    padding: 2rem 0;
+    margin-top: 2rem;
+  }
+  
+  .site-footer p {
+    color: var(--text);
+    text-align: center;
+    margin: 0;
+  }
+  
+   
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+   
+  code {
+    background: var(--secondary-bg);
+    color: var(--text);
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: 'Monaco', 'Consolas', 'Courier New', monospace;
+  }
+  
+  pre {
+    background: var(--secondary-bg);
+    color: var(--text);
+    padding: 1rem;
+    border-radius: 6px;
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+  }
+  
+  pre code {
+    background: transparent;
+    padding: 0;
+  }
+  
+   
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1rem 0;
+  }
+  
+  th, td {
+    border: 1px solid var(--border-color);
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+  th {
+    background: var(--secondary-bg);
+    color: var(--text);
+    font-weight: bold;
+  }
+  
+   
+  blockquote {
+    border-left: 4px solid var(--accent);
+    margin: 1rem 0;
+    padding: 0.5rem 0 0.5rem 1rem;
+    background: var(--secondary-bg);
+    color: var(--text);
+  }
+  
+   
+  input, textarea, select {
+    background: var(--secondary-bg);
+    color: var(--text);
+    border: 1px solid var(--border-color);
+    padding: 0.5rem;
+    border-radius: 4px;
+  }
+  
+  input:focus, textarea:focus, select:focus {
+    border-color: var(--accent);
+    outline: none;
+  }
+  
+  button {
+    background: var(--accent);
+    color: var(--text);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
+   
+  @media (max-width: 768px) {
+    .main-nav {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    
+    .nav-menu {
+      flex-direction: column;
+      gap: 0.5rem;
+      text-align: center;
+    }
+    
+    .submenu {
+      position: static;
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      box-shadow: none;
+      border: none;
+      background: transparent;
+      margin-top: 0.5rem;
+    }
+  }
+</style>
+
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <nav class="main-nav">
+      <a href="/" class="site-title">Wilkes &amp; Liberty</a>
+      
+        <ul class="nav-menu">
+          
+            
+            <li class="nav-item has-submenu">
+              <a href="/technology/">Technology</a>
+              
+                <ul class="submenu">
+                  
+                    <li><a href="/technology/artificial-intelligence/">Artificial Intelligence</a></li>
+                  
+                    <li><a href="/technology/cloud-operations/">Cloud Operations</a></li>
+                  
+                    <li><a href="/technology/content-management/">Content Management</a></li>
+                  
+                    <li><a href="/technology/cybersecurity/">Cybersecurity</a></li>
+                  
+                    <li><a href="/technology/identity/">Digital Identity</a></li>
+                  
+                    <li><a href="/technology/digital-modernization/">Digital Modernization</a></li>
+                  
+                    <li><a href="/technology/infrastructure/">Infrastructure</a></li>
+                  
+                    <li><a href="/technology/software-development/">Software Development</a></li>
+                  
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="nav-item has-submenu">
+              <a href="/product-solutions/">Product Solutions</a>
+              
+                <ul class="submenu">
+                  
+                    <li><a href="/product-solutions/innovation/">Innovation</a></li>
+                  
+                    <li><a href="/product-solutions/digital-accelerators/">Digital Accelerators</a></li>
+                  
+                    <li><a href="/product-solutions/product-ai/">Product AI</a></li>
+                  
+                    <li><a href="/product-solutions/ai-for-financial-optimization/">AI for Financial Optimization</a></li>
+                  
+                    <li><a href="/product-solutions/zero-trust/">Zero Trust</a></li>
+                  
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="nav-item has-submenu">
+              <a href="/product-services/">Product Services</a>
+              
+                <ul class="submenu">
+                  
+                    <li><a href="/product-services/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
+                  
+                    <li><a href="/product-services/training-simulation/">Training &amp; Simulation</a></li>
+                  
+                    <li><a href="/product-services/intelligence-specialist-support/">Intelligence Specialist Support</a></li>
+                  
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="nav-item has-submenu">
+              <a href="/industries/">Industries</a>
+              
+                <ul class="submenu">
+                  
+                    <li><a href="/industries/civil/">Civil</a></li>
+                  
+                    <li><a href="/industries/defense/">Defense</a></li>
+                  
+                    <li><a href="/industries/education/">Education</a></li>
+                  
+                    <li><a href="/industries/health/">Health</a></li>
+                  
+                    <li><a href="/industries/finance/">Finance</a></li>
+                  
+                    <li><a href="/industries/intelligence/">Intelligence</a></li>
+                  
+                    <li><a href="/industries/government/">Government</a></li>
+                  
+                </ul>
+              
+            </li>
+            
+          
+            
+            <li class="nav-item has-submenu">
+              <a href="/about-wl/">About WL</a>
+              
+                <ul class="submenu">
+                  
+                    <li><a href="/about-wl/leadership/">Leadership</a></li>
+                  
+                    <li><a href="/about-wl/press-releases/">Press Releases</a></li>
+                  
+                    <li><a href="/about-wl/corporate-citizenship/">Corporate Citizenship</a></li>
+                  
+                    <li><a href="/about-wl/contract-vehicles/">Contract Vehicles</a></li>
+                  
+                    <li><a href="/about-wl/contact-us/">Contact Us</a></li>
+                  
+                </ul>
+              
+            </li>
+            
+          
+        </ul>
+      
+    </nav>
+  </div>
+</header>
+
+
+    <main class="main-content">
+        <div class="container">
+            <h1>Product Solutions</h1>
+            <h1 id="bespoke-solutions-for-digital-liberty">Bespoke solutions for digital liberty.</h1>
+<p>Like Wilkes&rsquo; defiant stand against oppression, our product solutions are crafted to liberate enterprises from digital constraints. Each solution is meticulously designed to restore power to rightful owners—you.</p>
+<h2 id="our-solution-portfolio">Our Solution Portfolio</h2>
+<ul>
+<li><strong>Custom Liberation</strong>: Tailored products that break your specific chains.</li>
+<li><strong>Enterprise Sovereignty</strong>: Solutions that put control back in your hands.</li>
+<li><strong>Discrete Excellence</strong>: Products designed for organizations that demand privacy.</li>
+<li><strong>Adaptive Power</strong>: Flexible solutions that evolve with your freedom needs.</li>
+</ul>
+<p>Discover products that champion your digital independence. <a href="/">Contact us</a>.</p>
+
+            
+        </div>
+    </main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; 2025 Wilkes &amp; Liberty. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+baseURL: "https://www.wilkesliberty.com/"
+languageCode: "en-us"
+title: "Wilkes & Liberty"
+theme: "ananke"
+
+params:
+  custom_css:
+    - "css/custom.css"
+  description: "Defending digital liberty with privacy-first solutions."
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - identifier: "technology"
+      name: "Technology"
+      url: "/technology/"
+      weight: 1
+    - identifier: "product-solutions"
+      name: "Product Solutions"
+      url: "/product-solutions/"
+      weight: 2
+    - identifier: "product-services"
+      name: "Product Services"
+      url: "/product-services/"
+      weight: 3
+    - identifier: "industries"
+      name: "Industries"
+      url: "/industries/"
+      weight: 4
+    - identifier: "about-wl"
+      name: "About WL"
+      url: "/about-wl/"
+      weight: 5

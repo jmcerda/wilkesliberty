@@ -1,0 +1,57 @@
+:root {
+    --accent: #5E2CED;  /* Deep purple */
+    --primary: #000000; /* Black */
+    --text: #FFFFFF;    /* White */
+}
+html, body {
+    background-color: var(--primary) !important;
+    color: var(--text) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+main.main-content {
+    background-color: var(--primary) !important;
+    min-height: 100vh !important;
+}
+.container {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
+    box-sizing: border-box !important;
+}
+a {
+    color: var(--accent) !important;
+    text-decoration: none !important;
+}
+a:hover {
+    text-decoration: underline !important;
+}
+button, .button {
+    background-color: var(--accent) !important;
+    color: var(--text) !important;
+    padding: 10px 20px !important;
+    border: none !important;
+    border-radius: 5px !important;
+    cursor: pointer !important;
+}
+h1, h2, h3 {
+    color: var(--accent) !important;
+}
+form label, form input, form textarea {
+    color: var(--text) !important;
+    margin-bottom: 10px !important;
+    display: block !important;
+}
+form input, form textarea {
+    background-color: var(--primary) !important;
+    border: 1px solid var(--accent) !important;
+    padding: 8px !important;
+    border-radius: 5px !important;
+}
+.bg-near-black, .bg-black, .bg-dark-gray, .bg-mid-gray {
+    background-color: var(--primary) !important;
+}
+.white, .near-white, .light-gray, .mid-gray {
+    color: var(--text) !important;
+}

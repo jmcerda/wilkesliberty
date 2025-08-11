@@ -1,0 +1,4 @@
+<h3>All Menu Items ({{ len .Site.Menus.main }} total):</h3>
+{{ range .Site.Menus.main }}
+  <p>Menu item: {{ .Name }}, Parent: "{{ .Parent }}", URL: {{ .URL }}, Weight: {{ .Weight }}</p>
+{{ end }}

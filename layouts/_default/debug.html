@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main class="main-content">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+        
+        <h2>Menu Debug Information</h2>
+        <p><strong>Total menu items:</strong> {{ len .Site.Menus.main }}</p>
+        
+        <h3>All Menu Items:</h3>
+        {{ range $index, $item := .Site.Menus.main }}
+        <div style="border: 1px solid #5E2CED; padding: 10px; margin: 10px 0; background-color: #1a1a1a;">
+            <p><strong>{{ add $index 1 }}. {{ $item.Name }}</strong></p>
+            <ul>
+                <li>URL: {{ $item.URL }}</li>
+                <li>Weight: {{ $item.Weight }}</li>
+                <li>Parent: "{{ $item.Parent }}"</li>
+                <li>Identifier: "{{ $item.Identifier }}"</li>
+                <li>Has Children: {{ $item.HasChildren }}</li>
+            </ul>
+        </div>
+        {{ end }}
+        
+        <h3>Menu Structure Test:</h3>
+        {{ range .Site.Menus.main }}
+            {{ if not .Parent }}
+                <div style="border: 2px solid #5E2CED; padding: 10px; margin: 10px 0; background-color: #1a1a1a;">
+                    <h4>Main: {{ .Name }} (ID: {{ .Identifier }})</h4>
+                    {{ $parentID := .Identifier }}
+                    {{ range $.Site.Menus.main }}
+                        {{ if eq .Parent $parentID }}
+                            <div style="margin-left: 20px; border-left: 2px solid #5E2CED; padding-left: 10px; color: #FFFFFF;">
+                                Child: {{ .Name }} (Parent: {{ .Parent }})
+                            </div>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</main>
+{{ end }}

@@ -1,0 +1,25 @@
+<header class="site-header">
+  <div class="container">
+    <nav class="main-nav">
+      <a href="{{ "/" | relURL }}" class="site-title">{{ .Site.Title }}</a>
+      {{ with .Site.Menus.main }}
+        <ul class="nav-menu">
+          {{ range . }}
+            {{ if not .Parent }}
+            <li class="nav-item{{ if .Children }} has-submenu{{ end }}">
+              <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+              {{ if .Children }}
+                <ul class="submenu">
+                  {{ range .Children }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+            </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      {{ end }}
+    </nav>
+  </div>
+</header>
