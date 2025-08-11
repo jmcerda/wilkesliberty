@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Wilkes &amp; Liberty</title>
-    <link>http://localhost:1315/about/</link>
-    <description>Recent content in Abouts on Wilkes &amp; Liberty</description>
+    <title>About on Wilkes &amp; Liberty</title>
+    <link>https://www.wilkesliberty.com/about/</link>
+    <description>Recent content in About on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1315/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wilkesliberty.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1315/about-wl/contact-us/</link>
+      <link>https://www.wilkesliberty.com/about/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about-wl/contact-us/</guid>
+      <guid>https://www.wilkesliberty.com/about/contact-us/</guid>
       <description>&lt;h1 id=&#34;contact-us-begin-your-journey-to-digital-liberation&#34;&gt;Contact Us: Begin Your Journey to Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; open door for those seeking liberty, we welcome visionaries ready to break free from surveillance capitalism and achieve true technological independence. Your journey to digital sovereignty starts with a single, secure communication.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-contact-philosophy&#34;&gt;Revolutionary Contact Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Every interaction with Wilkes &amp;amp; Liberty is designed to protect your privacy and operational security. We don&amp;rsquo;t collect unnecessary information, create marketing profiles, or share contact details with external parties. Your inquiry remains completely confidential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contract Vehicles</title>
+      <link>https://www.wilkesliberty.com/about/contract-vehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/about/contract-vehicles/</guid>
+      <description>&lt;h1 id=&#34;contract-vehicles-flexible-pathways-to-digital-liberation&#34;&gt;Contract Vehicles: Flexible Pathways to Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic approach to achieving liberty through multiple channels, we provide diverse contract vehicles that accommodate your organization&amp;rsquo;s unique procurement requirements while maintaining our unwavering commitment to digital sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-contracting-philosophy&#34;&gt;Revolutionary Contracting Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Traditional contract vehicles often compromise client sovereignty through surveillance clauses, data collection requirements, and external oversight provisions. Our contracting approach prioritizes your independence while meeting all legitimate procurement and compliance requirements.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Corporate Citizenship</title>
+      <link>https://www.wilkesliberty.com/about/corporate-citizenship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/about/corporate-citizenship/</guid>
+      <description>&lt;h1 id=&#34;corporate-citizenship-revolutionary-responsibility-in-action&#34;&gt;Corporate Citizenship: Revolutionary Responsibility in Action&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; commitment to society and the common good, Wilkes &amp;amp; Liberty practices corporate citizenship that advances digital liberation for all—not just our clients. True responsibility means building a more sovereign digital future for everyone.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-corporate-philosophy&#34;&gt;Revolutionary Corporate Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Corporate citizenship in the digital age means more than charity or compliance—it means actively working to liberate society from surveillance capitalism and technological oppression. Our responsibilities extend beyond profit to include the advancement of digital human rights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leadership</title>
+      <link>https://www.wilkesliberty.com/about/leadership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/about/leadership/</guid>
+      <description>&lt;h1 id=&#34;leadership-the-architects-of-digital-liberation&#34;&gt;Leadership: The Architects of Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; courageous leadership in the face of authoritarian power, our leadership team comprises visionaries who refuse to accept the surveillance state&amp;rsquo;s dominance over digital life. We lead by example, building the technologies and strategies that others follow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-leadership-philosophy&#34;&gt;Revolutionary Leadership Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;True leadership in the digital age means rejecting comfortable compliance with surveillance capitalism and choosing the harder path of genuine innovation. Our leaders don&amp;rsquo;t just manage—they liberate, inspire, and forge new pathways to technological independence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Press Releases</title>
+      <link>https://www.wilkesliberty.com/about/press-releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/about/press-releases/</guid>
+      <description>&lt;h1 id=&#34;press-releases-chronicles-of-the-digital-liberation-movement&#34;&gt;Press Releases: Chronicles of the Digital Liberation Movement&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic use of media to advance the cause of liberty, our press releases document the ongoing battle for digital sovereignty and the victories won by those who refuse to surrender their technological independence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-communications-strategy&#34;&gt;Revolutionary Communications Strategy&lt;/h2&gt;&#xA;&lt;p&gt;Our press releases don&amp;rsquo;t just announce business developments—they chronicle the advancement of digital liberation. Each release serves the broader mission of awakening organizations to the possibilities of true technological independence.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

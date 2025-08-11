@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Wilkes &amp; Liberty</title>
-    <link>http://localhost:1315/services/</link>
+    <link>https://www.wilkesliberty.com/services/</link>
     <description>Recent content in Services on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1315/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wilkesliberty.com/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligence Specialist Support</title>
-      <link>http://localhost:1315/product-services/intelligence-specialist-support/</link>
+      <link>https://www.wilkesliberty.com/services/intelligence-specialist-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/product-services/intelligence-specialist-support/</guid>
+      <guid>https://www.wilkesliberty.com/services/intelligence-specialist-support/</guid>
       <description>&lt;h1 id=&#34;intelligence-specialist-support-shadow-operations-for-digital-liberation&#34;&gt;Intelligence Specialist Support: Shadow Operations for Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; mastery of information warfare against tyrannical authorities, our intelligence specialists operate in the shadows—gathering strategic insights while leaving no trace of their activities or your interests.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sovereign-intelligence-operations&#34;&gt;Sovereign Intelligence Operations&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ghost-network-intelligence&#34;&gt;Ghost Network Intelligence&lt;/h3&gt;&#xA;&lt;p&gt;Traditional intelligence services create paper trails, reporting structures, and dependencies that expose your strategic interests. Our specialists operate as digital ghosts—gathering critical intelligence while maintaining complete operational anonymity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logistics &amp; Supply Chain Management</title>
+      <link>https://www.wilkesliberty.com/services/logistics-supply-chain-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/services/logistics-supply-chain-management/</guid>
+      <description>&lt;h1 id=&#34;logistics--supply-chain-management-autonomous-operations-beyond-control&#34;&gt;Logistics &amp;amp; Supply Chain Management: Autonomous Operations Beyond Control&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic coordination of colonial resistance networks, our logistics services create autonomous supply chains that operate independently of centralized control systems and surveillance networks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;supply-chain-liberation&#34;&gt;Supply Chain Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-operations-management&#34;&gt;Sovereign Operations Management&lt;/h3&gt;&#xA;&lt;p&gt;Break free from logistics platforms that monitor, analyze, and control your supply chains. Our management services create truly independent operational networks that answer only to you.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-logistics-philosophy&#34;&gt;Revolutionary Logistics Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional supply chain management creates dependencies, data exposure, and points of control. Our approach builds resilient, private networks that strengthen with every transaction while revealing nothing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Training &amp; Simulation</title>
+      <link>https://www.wilkesliberty.com/services/training-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/services/training-simulation/</guid>
+      <description>&lt;h1 id=&#34;training--simulation-forge-warriors-of-digital-liberty&#34;&gt;Training &amp;amp; Simulation: Forge Warriors of Digital Liberty&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; commitment to educating citizens in the arts of resistance, our training services create digital freedom fighters—equipped with the knowledge and skills to defend sovereignty in an increasingly surveilled world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-education-for-digital-independence&#34;&gt;Revolutionary Education for Digital Independence&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-skill-development&#34;&gt;Sovereign Skill Development&lt;/h3&gt;&#xA;&lt;p&gt;Traditional training platforms monitor your progress, analyze your weaknesses, and create profiles for external consumption. Our training operates in complete privacy, building your capabilities without exposing your strategic interests.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

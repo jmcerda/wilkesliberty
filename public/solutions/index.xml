@@ -2,17 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solutions on Wilkes &amp; Liberty</title>
-    <link>http://localhost:1315/solutions/</link>
+    <link>https://www.wilkesliberty.com/solutions/</link>
     <description>Recent content in Solutions on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1315/solutions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wilkesliberty.com/solutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI for Financial Optimization</title>
-      <link>http://localhost:1315/product-solutions/ai-for-financial-optimization/</link>
+      <link>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/product-solutions/ai-for-financial-optimization/</guid>
+      <guid>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</guid>
       <description>&lt;h1 id=&#34;ai-for-financial-optimization-economic-liberation-through-intelligence&#34;&gt;AI for Financial Optimization: Economic Liberation Through Intelligence&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; fierce opposition to unjust taxation and economic oppression, our Financial AI liberates your resources from inefficiency, surveillance, and institutional control—delivering sovereign wealth optimization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;financial-independence-through-artificial-intelligence&#34;&gt;Financial Independence Through Artificial Intelligence&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-wealth-intelligence&#34;&gt;Sovereign Wealth Intelligence&lt;/h3&gt;&#xA;&lt;p&gt;Your financial data and strategies remain completely private while our AI maximizes your economic potential. No banks monitoring your moves, no governments tracking your optimization, no corporations mining your wealth patterns.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Accelerators</title>
+      <link>https://www.wilkesliberty.com/solutions/digital-accelerators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/digital-accelerators/</guid>
+      <description>&lt;h1 id=&#34;digital-accelerators-velocity-without-compromise&#34;&gt;Digital Accelerators: Velocity Without Compromise&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; rapid mobilization of liberty-minded citizens, our Digital Accelerators propel your organization toward digital independence at revolutionary speed—without sacrificing security or sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;accelerated-liberation&#34;&gt;Accelerated Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;rapid-deployment-solutions&#34;&gt;Rapid Deployment Solutions&lt;/h3&gt;&#xA;&lt;p&gt;Break free from lengthy implementation cycles that keep you dependent on legacy systems. Our accelerators compress months of traditional development into weeks of transformative progress.&lt;/p&gt;&#xA;&lt;h3 id=&#34;speed-without-surveillance&#34;&gt;Speed Without Surveillance&lt;/h3&gt;&#xA;&lt;p&gt;Traditional accelerators come with strings attached—vendor lock-in, data collection, and loss of control. Ours deliver velocity while preserving your digital sovereignty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>https://www.wilkesliberty.com/solutions/innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/innovation/</guid>
+      <description>&lt;h1 id=&#34;revolutionary-innovation-for-digital-liberation&#34;&gt;Revolutionary Innovation for Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;In the tradition of John Wilkes&amp;rsquo; groundbreaking challenges to authority, we pioneer transformative solutions that shatter conventional boundaries and redefine what&amp;rsquo;s possible in the digital realm.&lt;/p&gt;&#xA;&lt;h2 id=&#34;breaking-the-chains-of-convention&#34;&gt;Breaking the Chains of Convention&lt;/h2&gt;&#xA;&lt;h3 id=&#34;disruptive-technology-development&#34;&gt;Disruptive Technology Development&lt;/h3&gt;&#xA;&lt;p&gt;We don&amp;rsquo;t just follow trends—we create them. Our innovation lab develops cutting-edge solutions that challenge established norms and deliver unprecedented capabilities to organizations ready to embrace digital revolution.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-product-design&#34;&gt;Revolutionary Product Design&lt;/h3&gt;&#xA;&lt;p&gt;Every solution we create is designed with liberation in mind. We build products that free organizations from vendor lock-in, surveillance capitalism, and technological tyranny.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product AI</title>
+      <link>https://www.wilkesliberty.com/solutions/product-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/product-ai/</guid>
+      <description>&lt;h1 id=&#34;product-ai-intelligence-without-oppression&#34;&gt;Product AI: Intelligence Without Oppression&lt;/h1&gt;&#xA;&lt;p&gt;Channeling Wilkes&amp;rsquo; intellectual rebellion against tyrannical systems, our Product AI delivers revolutionary intelligence that serves your vision—not corporate overlords or surveillance networks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artificial-intelligence-genuine-liberty&#34;&gt;Artificial Intelligence, Genuine Liberty&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-ai-systems&#34;&gt;Sovereign AI Systems&lt;/h3&gt;&#xA;&lt;p&gt;Your AI belongs to you alone. No external training on your data, no backdoors for surveillance agencies, no corporate manipulation of your intelligent systems. Pure, autonomous intelligence under your complete control.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-ai-philosophy&#34;&gt;Revolutionary AI Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional AI systems are designed to extract, monitor, and control. Our Product AI is built on the radical principle that artificial intelligence should amplify human freedom, not diminish it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zero Trust</title>
+      <link>https://www.wilkesliberty.com/solutions/zero-trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/zero-trust/</guid>
+      <description>&lt;h1 id=&#34;zero-trust-absolute-verification-absolute-freedom&#34;&gt;Zero Trust: Absolute Verification, Absolute Freedom&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; fundamental skepticism of all authority, our Zero Trust architecture treats every entity as potentially hostile until proven otherwise—creating impenetrable digital fortresses that protect your sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trust-nothing-verify-everything&#34;&gt;Trust Nothing, Verify Everything&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-revolutionary-security-philosophy&#34;&gt;The Revolutionary Security Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;John Wilkes never accepted authority at face value, and neither should your security systems. Our Zero Trust model assumes breach, questions every request, and grants access only after rigorous, continuous verification.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

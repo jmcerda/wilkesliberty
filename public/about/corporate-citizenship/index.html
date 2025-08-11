@@ -195,6 +195,51 @@
   }
   
    
+  .section-pages {
+    margin-top: 2rem;
+  }
+  
+  .pages-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .page-card {
+    background: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .page-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(94, 44, 237, 0.1);
+  }
+  
+  .page-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .page-card h3 a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  
+  .page-card h3 a:hover {
+    text-decoration: underline;
+  }
+  
+  .page-card p {
+    color: var(--text);
+    margin-bottom: 0;
+    opacity: 0.9;
+  }
+  
+   
   a {
     color: var(--accent);
     text-decoration: none;
@@ -335,6 +380,8 @@
                     <li><a href="/technology/artificial-intelligence/">Artificial Intelligence</a></li>
                   
                     <li><a href="/technology/cloud-operations/">Cloud Operations</a></li>
+                  
+                    <li><a href="/technology/blockchain/">Blockchain</a></li>
                   
                     <li><a href="/technology/content-management/">Content Management</a></li>
                   

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main class="main-content">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+        
+        {{ if .Pages }}
+        <section class="section-pages">
+            <h2>{{ .Title }} Options</h2>
+            <div class="pages-grid">
+                {{ range .Pages }}
+                <article class="page-card">
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    {{ if .Summary }}
+                    <p>{{ .Summary }}</p>
+                    {{ end }}
+                </article>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+    </div>
+</main>
+{{ end }}

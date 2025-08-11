@@ -2,15 +2,8 @@
 title: "Wilkes & Liberty"
 ---
 
-Defend your digital realm. Echoing John Wilkes' fierce stand for liberty: "The liberty of the press is the birthright... the firmest bulwark of liberties." Today, we adapt it for sovereign data—unbreakable freedom in an age of overreach.
+Defend your digital realm. Adapt for sovereign data — unbreakable freedom in an age of overreach.
 
-# Elite B2B solutions in digital realms.
-
-At Wilkes & Liberty, we channel John Wilkes' unyielding pursuit of freedom into the digital frontier. Specializing in B2B excellence: digital content management, identity protection, and private AI infrastructure.
-
-# Precision targeting for maximum impact.
-
-Channel your energy like Wilkes' focused rebellion. We deliver surgical precision—cutting through digital noise to strike exactly where it matters. Your focus, amplified and unstoppable.
 
 ## Why Our Focus Matters?
 - **Laser Precision**: Target what matters, ignore the rest.
