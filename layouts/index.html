@@ -3,17 +3,6 @@
     <div class="container">
         <h1>{{ .Site.Title }}</h1>
         {{ .Content }}
-        
-        {{ if .Site.Menus.main }}
-        <nav class="home-nav">
-            <h2>Explore</h2>
-            <ul>
-                {{ range .Site.Menus.main }}
-                <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                {{ end }}
-            </ul>
-        </nav>
-        {{ end }}
     </div>
 </main>
 {{ end }}

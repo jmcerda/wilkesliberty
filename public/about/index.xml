@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Wilkes &amp; Liberty</title>
+    <link>http://localhost:1315/about/</link>
+    <description>Recent content in Abouts on Wilkes &amp; Liberty</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1315/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1315/about-wl/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/about-wl/contact-us/</guid>
+      <description>&lt;h1 id=&#34;contact-us-begin-your-journey-to-digital-liberation&#34;&gt;Contact Us: Begin Your Journey to Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; open door for those seeking liberty, we welcome visionaries ready to break free from surveillance capitalism and achieve true technological independence. Your journey to digital sovereignty starts with a single, secure communication.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-contact-philosophy&#34;&gt;Revolutionary Contact Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Every interaction with Wilkes &amp;amp; Liberty is designed to protect your privacy and operational security. We don&amp;rsquo;t collect unnecessary information, create marketing profiles, or share contact details with external parties. Your inquiry remains completely confidential.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,14 @@
 <footer class="site-footer">
   <div class="container">
+    {{ if .Site.Menus.main }}
+    <nav class="footer-nav">
+      <ul>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    {{ end }}
     <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
   </div>
 </footer>

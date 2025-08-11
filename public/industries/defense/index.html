@@ -163,6 +163,38 @@
   }
   
    
+  .footer-nav {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .footer-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .footer-nav li {
+    margin: 0;
+  }
+  
+  .footer-nav a {
+    color: var(--text);
+    text-decoration: none;
+    padding: 0.5rem;
+    font-weight: 500;
+  }
+  
+  .footer-nav a:hover {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  
+   
   a {
     color: var(--accent);
     text-decoration: none;
@@ -273,6 +305,15 @@
       background: transparent;
       margin-top: 0.5rem;
     }
+    
+    .footer-nav ul {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    
+    .footer-nav a {
+      padding: 0.25rem;
+    }
   }
 </style>
 
@@ -314,19 +355,19 @@
           
             
             <li class="nav-item has-submenu">
-              <a href="/product-solutions/">Product Solutions</a>
+              <a href="/solutions/">Solutions</a>
               
                 <ul class="submenu">
                   
-                    <li><a href="/product-solutions/innovation/">Innovation</a></li>
+                    <li><a href="/solutions/innovation/">Innovation</a></li>
                   
-                    <li><a href="/product-solutions/digital-accelerators/">Digital Accelerators</a></li>
+                    <li><a href="/solutions/digital-accelerators/">Digital Accelerators</a></li>
                   
-                    <li><a href="/product-solutions/product-ai/">Product AI</a></li>
+                    <li><a href="/solutions/product-ai/">Product AI</a></li>
                   
-                    <li><a href="/product-solutions/ai-for-financial-optimization/">AI for Financial Optimization</a></li>
+                    <li><a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a></li>
                   
-                    <li><a href="/product-solutions/zero-trust/">Zero Trust</a></li>
+                    <li><a href="/solutions/zero-trust/">Zero Trust</a></li>
                   
                 </ul>
               
@@ -335,15 +376,15 @@
           
             
             <li class="nav-item has-submenu">
-              <a href="/product-services/">Product Services</a>
+              <a href="/services/">Services</a>
               
                 <ul class="submenu">
                   
-                    <li><a href="/product-services/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
+                    <li><a href="/services/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
                   
-                    <li><a href="/product-services/training-simulation/">Training &amp; Simulation</a></li>
+                    <li><a href="/services/training-simulation/">Training &amp; Simulation</a></li>
                   
-                    <li><a href="/product-services/intelligence-specialist-support/">Intelligence Specialist Support</a></li>
+                    <li><a href="/services/intelligence-specialist-support/">Intelligence Specialist Support</a></li>
                   
                 </ul>
               
@@ -377,19 +418,19 @@
           
             
             <li class="nav-item has-submenu">
-              <a href="/about-wl/">About WL</a>
+              <a href="/about/">About</a>
               
                 <ul class="submenu">
                   
-                    <li><a href="/about-wl/leadership/">Leadership</a></li>
+                    <li><a href="/about/leadership/">Leadership</a></li>
                   
-                    <li><a href="/about-wl/press-releases/">Press Releases</a></li>
+                    <li><a href="/about/press-releases/">Press Releases</a></li>
                   
-                    <li><a href="/about-wl/corporate-citizenship/">Corporate Citizenship</a></li>
+                    <li><a href="/about/corporate-citizenship/">Corporate Citizenship</a></li>
                   
-                    <li><a href="/about-wl/contract-vehicles/">Contract Vehicles</a></li>
+                    <li><a href="/about/contract-vehicles/">Contract Vehicles</a></li>
                   
-                    <li><a href="/about-wl/contact-us/">Contact Us</a></li>
+                    <li><a href="/about/contact-us/">Contact Us</a></li>
                   
                 </ul>
               
@@ -485,6 +526,23 @@
 
 <footer class="site-footer">
   <div class="container">
+    
+    <nav class="footer-nav">
+      <ul>
+        
+        <li><a href="/technology/">Technology</a></li>
+        
+        <li><a href="/solutions/">Solutions</a></li>
+        
+        <li><a href="/services/">Services</a></li>
+        
+        <li><a href="/industries/">Industries</a></li>
+        
+        <li><a href="/about/">About</a></li>
+        
+      </ul>
+    </nav>
+    
     <p>&copy; 2025 Wilkes &amp; Liberty. All rights reserved.</p>
   </div>
 </footer>

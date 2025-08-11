@@ -24,4 +24,4 @@ Channel your energy like Wilkes' focused rebellion. We deliver surgical precisio
 
 Selective consultations for bespoke visionaries ready to reclaim their liberty.
 
-**Ready to reclaim your digital sovereignty?** [Contact us](/about-wl/contact-us/) to begin your journey toward true technological independence.
+**Ready to reclaim your digital sovereignty?** [Contact us](/about/contact-us/) to begin your journey toward true technological independence.
