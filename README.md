@@ -13,7 +13,8 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 │   │   ├── corporate-citizenship.md
 │   │   ├── contract-vehicles.md
 │   │   ├── leadership.md
-│   │   └── press-releases.md
+│   │   ├── press-releases.md
+│   │   └── resources.md
 │   ├── industries/         # Industry-specific solutions
 │   │   ├── _index.md       # Industries landing page
 │   │   ├── civil.md
@@ -34,9 +35,7 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 │   │   ├── ai-for-financial-optimization.md
 │   │   ├── digital-identity-platform.md
 │   │   ├── private-llms.md
-│   │   ├── privacy.md
 │   │   ├── product-ai.md
-│   │   ├── security.md
 │   │   └── zero-trust.md
 │   └── technology/         # Technology capabilities
 │       ├── _index.md       # Technology landing page
