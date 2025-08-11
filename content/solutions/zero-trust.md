@@ -4,7 +4,7 @@ url: /solutions/zero-trust/
 menu:
   main:
     parent: "solutions"
-    weight: 25
+    weight: 35
 ---
 
 # Zero Trust: Absolute Verification, Absolute Freedom

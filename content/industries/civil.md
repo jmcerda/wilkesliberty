@@ -4,7 +4,7 @@ url: /industries/civil/
 menu:
   main:
     parent: "industries"
-    weight: 41
+    weight: 40
 ---
 
 # Civil: Digital Liberty for the People

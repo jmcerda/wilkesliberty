@@ -4,7 +4,7 @@ url: /about/leadership/
 menu:
   main:
     parent: "about"
-    weight: 51
+    weight: 53
 ---
 
 # Leadership: The Architects of Digital Liberation

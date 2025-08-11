@@ -4,7 +4,7 @@ url: /about/corporate-citizenship/
 menu:
   main:
     parent: "about"
-    weight: 53
+    weight: 52
 ---
 
 # Corporate Citizenship: Revolutionary Responsibility in Action

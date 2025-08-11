@@ -105,11 +105,6 @@ Describe specific applications across key sectors:
 - Medical privacy and security
 - Healthcare system independence
 
-**Defense & Intelligence**
-- Mission-critical security features
-- Coalition and ally cooperation
-- Operational security benefits
-
 **Education**
 - Academic freedom and privacy
 - Research collaboration security

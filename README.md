@@ -17,35 +17,34 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 │   ├── industries/         # Industry-specific solutions
 │   │   ├── _index.md       # Industries landing page
 │   │   ├── civil.md
-│   │   ├── defense.md
 │   │   ├── education.md
 │   │   ├── finance.md
 │   │   ├── government.md
 │   │   ├── health.md
-│   │   └── intelligence.md
+│   │   └── legal.md
 │   ├── services/           # Professional services
 │   │   ├── _index.md       # Services landing page
-│   │   ├── intelligence-specialist-support.md
-│   │   ├── logistics-supply-chain-management.md
-│   │   └── training-simulation.md
+│   │   ├── ai-specialist-support.md
+│   │   ├── cloud-operations.md
+│   │   ├── cybersecurity.md
+│   │   ├── digital-modernization.md
+│   │   └── software-development.md
 │   ├── solutions/          # Product solutions
 │   │   ├── _index.md       # Solutions landing page
 │   │   ├── ai-for-financial-optimization.md
-│   │   ├── digital-accelerators.md
-│   │   ├── innovation.md
+│   │   ├── digital-identity-platform.md
+│   │   ├── private-llms.md
+│   │   ├── privacy.md
 │   │   ├── product-ai.md
+│   │   ├── security.md
 │   │   └── zero-trust.md
 │   └── technology/         # Technology capabilities
 │       ├── _index.md       # Technology landing page
 │       ├── artificial-intelligence.md
-│       ├── blockchain.md   # NEW: Decentralized blockchain solutions
-│       ├── cloud-operations.md
-│       ├── content-management.md
-│       ├── cybersecurity.md
-│       ├── digital-identity.md
-│       ├── digital-modernization.md
-│       ├── infrastructure.md
-│       └── software-development.md
+│       ├── blockchain/     # Decentralized blockchain solutions
+│       ├── content-management/  # Content management systems
+│       ├── digital-identity-management.md
+│       └── digital-infrastructure.md
 ├── layouts/                # Custom Hugo templates
 │   ├── _default/          # Default templates
 │   │   ├── baseof.html    # Base template

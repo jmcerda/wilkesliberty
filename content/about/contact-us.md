@@ -4,7 +4,7 @@ url: /about/contact-us/
 menu:
   main:
     parent: "about"
-    weight: 55
+    weight: 50
 ---
 
 # Contact Us: Begin Your Journey to Digital Liberation
@@ -51,9 +51,6 @@ Dedicated team for federal, state, and local government sovereignty requirements
 
 **Enterprise Solutions**
 Specialized contacts for Fortune 500 and large enterprise digital liberation initiatives.
-
-**Defense & Intelligence**
-Secure communications for defense contractors and intelligence community organizations.
 
 **Financial Services**
 Specialized team for banking, investment, and financial industry sovereignty requirements.

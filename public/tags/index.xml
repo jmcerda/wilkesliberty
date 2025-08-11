@@ -6,41 +6,118 @@
     <description>Recent content in Tags on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 13:37:07 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 15:51:06 -0400</lastBuildDate>
     <atom:link href="https://www.wilkesliberty.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication</title>
+      <link>https://www.wilkesliberty.com/tags/authentication/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/authentication/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blockchain</title>
       <link>https://www.wilkesliberty.com/tags/blockchain/</link>
-      <pubDate>Mon, 11 Aug 2025 13:37:07 -0400</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
       <guid>https://www.wilkesliberty.com/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cryptography</title>
-      <link>https://www.wilkesliberty.com/tags/cryptography/</link>
-      <pubDate>Mon, 11 Aug 2025 13:37:07 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/cryptography/</guid>
+      <title>Cms</title>
+      <link>https://www.wilkesliberty.com/tags/cms/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/cms/</guid>
       <description></description>
     </item>
     <item>
-      <title>Decentralization</title>
-      <link>https://www.wilkesliberty.com/tags/decentralization/</link>
-      <pubDate>Mon, 11 Aug 2025 13:37:07 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/decentralization/</guid>
+      <title>Content Management</title>
+      <link>https://www.wilkesliberty.com/tags/content-management/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/content-management/</guid>
       <description></description>
     </item>
     <item>
-      <title>Digital Sovereignty</title>
-      <link>https://www.wilkesliberty.com/tags/digital-sovereignty/</link>
-      <pubDate>Mon, 11 Aug 2025 13:37:07 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/digital-sovereignty/</guid>
+      <title>Cryptocurrency</title>
+      <link>https://www.wilkesliberty.com/tags/cryptocurrency/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/cryptocurrency/</guid>
       <description></description>
     </item>
     <item>
-      <title>Distributed Systems</title>
-      <link>https://www.wilkesliberty.com/tags/distributed-systems/</link>
-      <pubDate>Mon, 11 Aug 2025 13:37:07 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/distributed-systems/</guid>
+      <title>Decentralized Credentials</title>
+      <link>https://www.wilkesliberty.com/tags/decentralized-credentials/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/decentralized-credentials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decentralized Finance</title>
+      <link>https://www.wilkesliberty.com/tags/decentralized-finance/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/decentralized-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Defi</title>
+      <link>https://www.wilkesliberty.com/tags/defi/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/defi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Identity</title>
+      <link>https://www.wilkesliberty.com/tags/digital-identity/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/digital-identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drupal</title>
+      <link>https://www.wilkesliberty.com/tags/drupal/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/drupal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>https://www.wilkesliberty.com/tags/open-source/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Payments</title>
+      <link>https://www.wilkesliberty.com/tags/payments/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/payments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://www.wilkesliberty.com/tags/privacy/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://www.wilkesliberty.com/tags/web-development/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xrp Ledger</title>
+      <link>https://www.wilkesliberty.com/tags/xrp-ledger/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/xrp-ledger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zero-Knowledge</title>
+      <link>https://www.wilkesliberty.com/tags/zero-knowledge/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/tags/zero-knowledge/</guid>
       <description></description>
     </item>
   </channel>

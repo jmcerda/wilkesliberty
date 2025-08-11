@@ -2,107 +2,167 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1315/technology/blockchain/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/technology/content-management/drupal-cms/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/blockchain/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/technology/blockchain/xrp-ledger/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/tags/authentication/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/cryptography/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/categories/blockchain/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/decentralization/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/tags/blockchain/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/digital-sovereignty/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/technology/blockchain/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/distributed-systems/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/categories/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/emerging-technology/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/tags/cms/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/infrastructure/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/categories/content-management/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/security/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/tags/content-management/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/technology/content-management/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/tags/cryptocurrency/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/</loc>
-    <lastmod>2025-08-11T13:37:07-04:00</lastmod>
+    <loc>https://www.wilkesliberty.com/tags/decentralized-credentials/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/about/</loc>
+    <loc>https://www.wilkesliberty.com/tags/decentralized-finance/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/solutions/ai-for-financial-optimization/</loc>
+    <loc>https://www.wilkesliberty.com/tags/defi/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/artificial-intelligence/</loc>
+    <loc>https://www.wilkesliberty.com/categories/development/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/civil/</loc>
+    <loc>https://www.wilkesliberty.com/tags/digital-identity/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/cloud-operations/</loc>
+    <loc>https://www.wilkesliberty.com/solutions/digital-identity-platform/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/about/contact-us/</loc>
+    <loc>https://www.wilkesliberty.com/categories/digital-sovereignty/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/content-management/</loc>
+    <loc>https://www.wilkesliberty.com/tags/drupal/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/about/contract-vehicles/</loc>
+    <loc>https://www.wilkesliberty.com/categories/financial-technology/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/about/corporate-citizenship/</loc>
+    <loc>https://www.wilkesliberty.com/categories/identity-management/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/cybersecurity/</loc>
+    <loc>https://www.wilkesliberty.com/categories/infrastructure/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/defense/</loc>
+    <loc>https://www.wilkesliberty.com/categories/open-source/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/solutions/digital-accelerators/</loc>
+    <loc>https://www.wilkesliberty.com/tags/open-source/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/identity/</loc>
+    <loc>https://www.wilkesliberty.com/tags/payments/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/digital-modernization/</loc>
+    <loc>https://www.wilkesliberty.com/tags/privacy/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/education/</loc>
+    <loc>https://www.wilkesliberty.com/categories/solutions/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/finance/</loc>
+    <loc>https://www.wilkesliberty.com/solutions/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/government/</loc>
+    <loc>https://www.wilkesliberty.com/tags/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/health/</loc>
+    <loc>https://www.wilkesliberty.com/technology/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/</loc>
+    <loc>https://www.wilkesliberty.com/tags/web-development/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/technology/infrastructure/</loc>
+    <loc>https://www.wilkesliberty.com/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/solutions/innovation/</loc>
+    <loc>https://www.wilkesliberty.com/tags/xrp-ledger/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/industries/intelligence/</loc>
+    <loc>https://www.wilkesliberty.com/tags/zero-knowledge/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/services/intelligence-specialist-support/</loc>
+    <loc>https://www.wilkesliberty.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1315/about/leadership/</loc>
+    <loc>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</loc>
   </url><url>
-    <loc>http://localhost:1315/services/logistics-supply-chain-management/</loc>
+    <loc>https://www.wilkesliberty.com/services/ai-specialist-support/</loc>
   </url><url>
-    <loc>http://localhost:1315/about/press-releases/</loc>
+    <loc>https://www.wilkesliberty.com/technology/artificial-intelligence/</loc>
   </url><url>
-    <loc>http://localhost:1315/solutions/product-ai/</loc>
+    <loc>https://www.wilkesliberty.com/industries/civil/</loc>
   </url><url>
-    <loc>http://localhost:1315/services/</loc>
+    <loc>https://www.wilkesliberty.com/services/cloud-operations/</loc>
   </url><url>
-    <loc>http://localhost:1315/technology/software-development/</loc>
+    <loc>https://www.wilkesliberty.com/about/contact-us/</loc>
   </url><url>
-    <loc>http://localhost:1315/solutions/</loc>
+    <loc>https://www.wilkesliberty.com/about/contract-vehicles/</loc>
   </url><url>
-    <loc>http://localhost:1315/services/training-simulation/</loc>
+    <loc>https://www.wilkesliberty.com/about/corporate-citizenship/</loc>
   </url><url>
-    <loc>http://localhost:1315/solutions/zero-trust/</loc>
+    <loc>https://www.wilkesliberty.com/services/cybersecurity/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/technology/digital-identity-management/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/technology/digital-infrastructure/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/services/digital-modernization/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/industries/education/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/industries/finance/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/industries/government/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/industries/health/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/industries/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/about/leadership/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/industries/legal/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/technology/blockchain/logistics-supply-chain-management/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/about/press-releases/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/solutions/privacy/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/solutions/private-llms/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/solutions/product-ai/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/solutions/security/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/services/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/services/software-development/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/solutions/zero-trust/</loc>
   </url>
 </urlset>

@@ -149,6 +149,53 @@
   }
   
    
+  .has-sub-submenu {
+    position: relative;
+  }
+  
+  .sub-submenu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    min-width: 180px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 101;
+  }
+  
+  .has-sub-submenu:hover .sub-submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+  
+  .sub-submenu li {
+    margin: 0;
+  }
+  
+  .sub-submenu a {
+    display: block;
+    padding: 0.4rem 0.8rem;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.85rem;
+  }
+  
+  .sub-submenu a:hover {
+    background: var(--primary);
+    color: var(--accent);
+  }
+  
+   
   .site-footer {
     background: var(--secondary-bg);
     border-top: 1px solid var(--border-color);
@@ -351,6 +398,18 @@
       margin-top: 0.5rem;
     }
     
+    .sub-submenu {
+      position: static;
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      box-shadow: none;
+      border: none;
+      background: transparent;
+      margin-top: 0.25rem;
+      margin-left: 1rem;
+    }
+    
     .footer-nav ul {
       flex-direction: column;
       gap: 0.5rem;
@@ -377,23 +436,44 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/technology/artificial-intelligence/">Artificial Intelligence</a></li>
+                    <li class="">
+                      <a href="/technology/artificial-intelligence/">Artificial Intelligence</a>
+                      
+                    </li>
                   
-                    <li><a href="/technology/cloud-operations/">Cloud Operations</a></li>
+                    <li class="has-sub-submenu">
+                      <a href="/technology/blockchain/">Blockchain</a>
+                      
+                        <ul class="sub-submenu">
+                          
+                            <li><a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a></li>
+                          
+                            <li><a href="/technology/blockchain/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
+                          
+                        </ul>
+                      
+                    </li>
                   
-                    <li><a href="/technology/blockchain/">Blockchain</a></li>
+                    <li class="has-sub-submenu">
+                      <a href="/technology/content-management/">Content Management</a>
+                      
+                        <ul class="sub-submenu">
+                          
+                            <li><a href="/technology/content-management/drupal-cms/">Drupal CMS</a></li>
+                          
+                        </ul>
+                      
+                    </li>
                   
-                    <li><a href="/technology/content-management/">Content Management</a></li>
+                    <li class="">
+                      <a href="/technology/digital-identity-management/">Digital Identity Management</a>
+                      
+                    </li>
                   
-                    <li><a href="/technology/cybersecurity/">Cybersecurity</a></li>
-                  
-                    <li><a href="/technology/identity/">Digital Identity</a></li>
-                  
-                    <li><a href="/technology/digital-modernization/">Digital Modernization</a></li>
-                  
-                    <li><a href="/technology/infrastructure/">Infrastructure</a></li>
-                  
-                    <li><a href="/technology/software-development/">Software Development</a></li>
+                    <li class="">
+                      <a href="/technology/digital-infrastructure/">Digital Infrastructure</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -406,15 +486,40 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/solutions/innovation/">Innovation</a></li>
+                    <li class="">
+                      <a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/digital-accelerators/">Digital Accelerators</a></li>
+                    <li class="">
+                      <a href="/solutions/digital-identity-platform/">Digital Identity Platforms</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/product-ai/">Product AI</a></li>
+                    <li class="">
+                      <a href="/solutions/privacy/">Privacy</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a></li>
+                    <li class="">
+                      <a href="/solutions/private-llms/">Private LLMs</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/zero-trust/">Zero Trust</a></li>
+                    <li class="">
+                      <a href="/solutions/product-ai/">Product AI</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/solutions/security/">Security</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/solutions/zero-trust/">Zero Trust</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -427,11 +532,30 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/services/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
+                    <li class="">
+                      <a href="/services/ai-specialist-support/">AI Specialist Support</a>
+                      
+                    </li>
                   
-                    <li><a href="/services/training-simulation/">Training &amp; Simulation</a></li>
+                    <li class="">
+                      <a href="/services/cloud-operations/">Cloud Operations</a>
+                      
+                    </li>
                   
-                    <li><a href="/services/intelligence-specialist-support/">Intelligence Specialist Support</a></li>
+                    <li class="">
+                      <a href="/services/cybersecurity/">Cybersecurity</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/services/digital-modernization/">Digital Modernization</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/services/software-development/">Software Development</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -444,19 +568,35 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/industries/civil/">Civil</a></li>
+                    <li class="">
+                      <a href="/industries/civil/">Civil</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/defense/">Defense</a></li>
+                    <li class="">
+                      <a href="/industries/education/">Education</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/education/">Education</a></li>
+                    <li class="">
+                      <a href="/industries/finance/">Finance</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/health/">Health</a></li>
+                    <li class="">
+                      <a href="/industries/government/">Government</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/finance/">Finance</a></li>
+                    <li class="">
+                      <a href="/industries/health/">Health</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/intelligence/">Intelligence</a></li>
-                  
-                    <li><a href="/industries/government/">Government</a></li>
+                    <li class="">
+                      <a href="/industries/legal/">Legal</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -469,15 +609,30 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/about/leadership/">Leadership</a></li>
+                    <li class="">
+                      <a href="/about/contact-us/">Contact Us</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/press-releases/">Press Releases</a></li>
+                    <li class="">
+                      <a href="/about/contract-vehicles/">Contract Vehicles</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/corporate-citizenship/">Corporate Citizenship</a></li>
+                    <li class="">
+                      <a href="/about/corporate-citizenship/">Corporate Citizenship</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/contract-vehicles/">Contract Vehicles</a></li>
+                    <li class="">
+                      <a href="/about/leadership/">Leadership</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/contact-us/">Contact Us</a></li>
+                    <li class="">
+                      <a href="/about/press-releases/">Press Releases</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -525,8 +680,6 @@ For privacy and compliance discussions related to regulatory requirements and op
 Dedicated team for federal, state, and local government sovereignty requirements.</p>
 <p><strong>Enterprise Solutions</strong>
 Specialized contacts for Fortune 500 and large enterprise digital liberation initiatives.</p>
-<p><strong>Defense &amp; Intelligence</strong>
-Secure communications for defense contractors and intelligence community organizations.</p>
 <p><strong>Financial Services</strong>
 Specialized team for banking, investment, and financial industry sovereignty requirements.</p>
 <h2 id="consultation-process">Consultation Process</h2>

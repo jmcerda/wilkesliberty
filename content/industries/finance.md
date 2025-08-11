@@ -4,7 +4,7 @@ url: /industries/finance/
 menu:
   main:
     parent: "industries"
-    weight: 45
+    weight: 42
 ---
 
 # Finance: Economic Liberation Through Digital Sovereignty

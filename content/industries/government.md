@@ -4,7 +4,7 @@ url: /industries/government/
 menu:
   main:
     parent: "industries"
-    weight: 47
+    weight: 43
 ---
 
 # Government: Digital Governance Without Tyranny

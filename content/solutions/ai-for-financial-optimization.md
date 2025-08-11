@@ -4,7 +4,7 @@ url: /solutions/ai-for-financial-optimization/
 menu:
   main:
     parent: "solutions"
-    weight: 24
+    weight: 30
 ---
 
 # AI for Financial Optimization: Economic Liberation Through Intelligence

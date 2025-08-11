@@ -1,0 +1,15 @@
+
+[[menu.main]]
+name = "Services"
+url = "/services/"
+weight = 2
+
+[[menu.main]]
+name = "Solutions"
+url = "/solutions/"
+weight = 3
+
+[[menu.main]]
+name = "Core Technologies"
+url = "/technology/"
+weight = 4

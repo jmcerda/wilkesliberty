@@ -4,7 +4,7 @@ url: /about/contract-vehicles/
 menu:
   main:
     parent: "about"
-    weight: 54
+    weight: 51
 ---
 
 # Contract Vehicles: Flexible Pathways to Digital Liberation

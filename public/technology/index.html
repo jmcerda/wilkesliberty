@@ -149,6 +149,53 @@
   }
   
    
+  .has-sub-submenu {
+    position: relative;
+  }
+  
+  .sub-submenu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    min-width: 180px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 101;
+  }
+  
+  .has-sub-submenu:hover .sub-submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+  
+  .sub-submenu li {
+    margin: 0;
+  }
+  
+  .sub-submenu a {
+    display: block;
+    padding: 0.4rem 0.8rem;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.85rem;
+  }
+  
+  .sub-submenu a:hover {
+    background: var(--primary);
+    color: var(--accent);
+  }
+  
+   
   .site-footer {
     background: var(--secondary-bg);
     border-top: 1px solid var(--border-color);
@@ -351,6 +398,18 @@
       margin-top: 0.5rem;
     }
     
+    .sub-submenu {
+      position: static;
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      box-shadow: none;
+      border: none;
+      background: transparent;
+      margin-top: 0.25rem;
+      margin-left: 1rem;
+    }
+    
     .footer-nav ul {
       flex-direction: column;
       gap: 0.5rem;
@@ -377,23 +436,44 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/technology/artificial-intelligence/">Artificial Intelligence</a></li>
+                    <li class="">
+                      <a href="/technology/artificial-intelligence/">Artificial Intelligence</a>
+                      
+                    </li>
                   
-                    <li><a href="/technology/cloud-operations/">Cloud Operations</a></li>
+                    <li class="has-sub-submenu">
+                      <a href="/technology/blockchain/">Blockchain</a>
+                      
+                        <ul class="sub-submenu">
+                          
+                            <li><a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a></li>
+                          
+                            <li><a href="/technology/blockchain/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
+                          
+                        </ul>
+                      
+                    </li>
                   
-                    <li><a href="/technology/blockchain/">Blockchain</a></li>
+                    <li class="has-sub-submenu">
+                      <a href="/technology/content-management/">Content Management</a>
+                      
+                        <ul class="sub-submenu">
+                          
+                            <li><a href="/technology/content-management/drupal-cms/">Drupal CMS</a></li>
+                          
+                        </ul>
+                      
+                    </li>
                   
-                    <li><a href="/technology/content-management/">Content Management</a></li>
+                    <li class="">
+                      <a href="/technology/digital-identity-management/">Digital Identity Management</a>
+                      
+                    </li>
                   
-                    <li><a href="/technology/cybersecurity/">Cybersecurity</a></li>
-                  
-                    <li><a href="/technology/identity/">Digital Identity</a></li>
-                  
-                    <li><a href="/technology/digital-modernization/">Digital Modernization</a></li>
-                  
-                    <li><a href="/technology/infrastructure/">Infrastructure</a></li>
-                  
-                    <li><a href="/technology/software-development/">Software Development</a></li>
+                    <li class="">
+                      <a href="/technology/digital-infrastructure/">Digital Infrastructure</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -406,15 +486,40 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/solutions/innovation/">Innovation</a></li>
+                    <li class="">
+                      <a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/digital-accelerators/">Digital Accelerators</a></li>
+                    <li class="">
+                      <a href="/solutions/digital-identity-platform/">Digital Identity Platforms</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/product-ai/">Product AI</a></li>
+                    <li class="">
+                      <a href="/solutions/privacy/">Privacy</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a></li>
+                    <li class="">
+                      <a href="/solutions/private-llms/">Private LLMs</a>
+                      
+                    </li>
                   
-                    <li><a href="/solutions/zero-trust/">Zero Trust</a></li>
+                    <li class="">
+                      <a href="/solutions/product-ai/">Product AI</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/solutions/security/">Security</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/solutions/zero-trust/">Zero Trust</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -427,11 +532,30 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/services/logistics-supply-chain-management/">Logistics &amp; Supply Chain Management</a></li>
+                    <li class="">
+                      <a href="/services/ai-specialist-support/">AI Specialist Support</a>
+                      
+                    </li>
                   
-                    <li><a href="/services/training-simulation/">Training &amp; Simulation</a></li>
+                    <li class="">
+                      <a href="/services/cloud-operations/">Cloud Operations</a>
+                      
+                    </li>
                   
-                    <li><a href="/services/intelligence-specialist-support/">Intelligence Specialist Support</a></li>
+                    <li class="">
+                      <a href="/services/cybersecurity/">Cybersecurity</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/services/digital-modernization/">Digital Modernization</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/services/software-development/">Software Development</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -444,19 +568,35 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/industries/civil/">Civil</a></li>
+                    <li class="">
+                      <a href="/industries/civil/">Civil</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/defense/">Defense</a></li>
+                    <li class="">
+                      <a href="/industries/education/">Education</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/education/">Education</a></li>
+                    <li class="">
+                      <a href="/industries/finance/">Finance</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/health/">Health</a></li>
+                    <li class="">
+                      <a href="/industries/government/">Government</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/finance/">Finance</a></li>
+                    <li class="">
+                      <a href="/industries/health/">Health</a>
+                      
+                    </li>
                   
-                    <li><a href="/industries/intelligence/">Intelligence</a></li>
-                  
-                    <li><a href="/industries/government/">Government</a></li>
+                    <li class="">
+                      <a href="/industries/legal/">Legal</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -469,15 +609,30 @@
               
                 <ul class="submenu">
                   
-                    <li><a href="/about/leadership/">Leadership</a></li>
+                    <li class="">
+                      <a href="/about/contact-us/">Contact Us</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/press-releases/">Press Releases</a></li>
+                    <li class="">
+                      <a href="/about/contract-vehicles/">Contract Vehicles</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/corporate-citizenship/">Corporate Citizenship</a></li>
+                    <li class="">
+                      <a href="/about/corporate-citizenship/">Corporate Citizenship</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/contract-vehicles/">Contract Vehicles</a></li>
+                    <li class="">
+                      <a href="/about/leadership/">Leadership</a>
+                      
+                    </li>
                   
-                    <li><a href="/about/contact-us/">Contact Us</a></li>
+                    <li class="">
+                      <a href="/about/press-releases/">Press Releases</a>
+                      
+                    </li>
                   
                 </ul>
               
@@ -517,8 +672,28 @@
                     <p><h1 id="blockchain-decentralizing-power-liberating-data">Blockchain: Decentralizing Power, Liberating Data</h1>
 <p><em>&ldquo;The very essence of blockchain embodies John Wilkes&rsquo; vision of distributed authority—no single entity should control the ledger of truth.&rdquo;</em></p>
 <p>Blockchain technology represents the digital embodiment of revolutionary principles: decentralized authority, transparent governance, and cryptographic verification that makes trust unnecessary. Just as Wilkes fought against concentrated power in government, blockchain liberates organizations from dependence on centralized authorities and intermediaries.</p>
-<h2 id="the-challenge">The Challenge</h2>
-<p>Traditional systems concentrate power in central authorities who control data, transactions, and verification processes. This creates:</p></p>
+<h2 id="our-blockchain-technologies">Our Blockchain Technologies</h2>
+<h3 id="xrp-ledger"><a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a></h3>
+<p>Revolutionary decentralized payment and settlement blockchain offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.</p></p>
+                    
+                </article>
+                
+                <article class="page-card">
+                    <h3><a href="/technology/content-management/">Content Management</a></h3>
+                    
+                    <p><h1 id="content-management-sovereign-control-over-your-digital-narrative">Content Management: Sovereign Control Over Your Digital Narrative</h1>
+<p>Own your content destiny. Like Wilkes&rsquo; mastery of the written word to challenge authority, we forge content management systems that liberate your message from platform tyranny and corporate censorship.</p>
+<h2 id="our-content-management-technologies">Our Content Management Technologies</h2>
+<h3 id="drupal-cms"><a href="/technology/content-management/drupal-cms/">Drupal CMS</a></h3>
+<p>Open-source content management system that enables digital sovereignty with complete control over content, data, and platform architecture.</p>
+<h2 id="why-content-management-liberation-matters">Why Content Management Liberation Matters</h2>
+<ul>
+<li><strong>Platform Independence</strong>: Break free from social media overlords and content gatekeepers.</li>
+<li><strong>Editorial Sovereignty</strong>: Complete control over your narrative without algorithmic manipulation.</li>
+<li><strong>Data Ownership</strong>: Your content, your data, your rules—no third-party extraction or exploitation.</li>
+<li><strong>Censorship Resistance</strong>: Distribute your message through decentralized channels that can&rsquo;t be silenced.</li>
+</ul>
+<p>Reclaim your voice and amplify your truth. <a href="/">Contact us</a>.</p></p>
                     
                 </article>
                 
@@ -539,51 +714,7 @@
                 </article>
                 
                 <article class="page-card">
-                    <h3><a href="/technology/cloud-operations/">Cloud Operations</a></h3>
-                    
-                    <p><h1 id="cloud-freedom-without-corporate-chains">Cloud freedom without corporate chains.</h1>
-<p>Escape cloud vendor lock-in. Inspired by Wilkes&rsquo; fight against monopolistic control, we orchestrate multi-cloud strategies that keep you sovereign, scalable, and free from Big Tech dependency.</p>
-<h2 id="why-our-cloud-operations">Why Our Cloud Operations?</h2>
-<ul>
-<li><strong>Vendor Independence</strong>: Multi-cloud strategies that prevent lock-in and maximize flexibility.</li>
-<li><strong>Cost Sovereignty</strong>: Optimize across providers to slash costs while maintaining performance.</li>
-<li><strong>Strategic Mobility</strong>: Migrate workloads freely based on your business needs, not vendor restrictions.</li>
-<li><strong>Operational Excellence</strong>: DevOps practices that embody true digital liberty and efficiency.</li>
-</ul>
-<p>Break free from cloud tyranny. <a href="/">Contact us</a>.</p></p>
-                    
-                </article>
-                
-                <article class="page-card">
-                    <h3><a href="/technology/content-management/">Content Management</a></h3>
-                    
-                    <p><h1 id="sovereign-control-over-your-digital-narrative">Sovereign control over your digital narrative.</h1>
-<p>Own your content destiny. Like Wilkes&rsquo; mastery of the written word to challenge authority, we forge content management systems that liberate your message from platform tyranny and corporate censorship.</p>
-<h2 id="why-our-content-management">Why Our Content Management?</h2>
-<ul>
-<li><strong>Platform Independence</strong>: Break free from social media overlords and content gatekeepers.</li>
-<li><strong>Editorial Sovereignty</strong>: Complete control over your narrative without algorithmic manipulation.</li>
-<li><strong>Data Ownership</strong>: Your content, your data, your rules—no third-party extraction or exploitation.</li>
-<li><strong>Censorship Resistance</strong>: Distribute your message through decentralized channels that can&rsquo;t be silenced.</li>
-</ul>
-<p>Reclaim your voice and amplify your truth. <a href="/">Contact us</a>.</p></p>
-                    
-                </article>
-                
-                <article class="page-card">
-                    <h3><a href="/technology/cybersecurity/">Cybersecurity</a></h3>
-                    
-                    <p><h1 id="impenetrable-defenses-for-the-digital-battlefield">Impenetrable Defenses for the Digital Battlefield</h1>
-<p>In the spirit of John Wilkes&rsquo; fearless stand against tyranny, we forge digital fortresses that repel every threat. From state surveillance to corporate espionage, criminal enterprises to authoritarian overreach—your digital sovereignty remains uncompromised.</p>
-<p>Like the revolutionaries who declared independence from oppression, we declare independence from digital tyranny.</p>
-<h2 id="our-revolutionary-approach">Our Revolutionary Approach</h2>
-<h3 id="zero-trust-architecture">Zero-Trust Architecture</h3>
-<p>Verify everything, trust nothing. Just as Wilkes questioned authority at every turn, our systems challenge every access request. No entity—internal or external—gains passage without rigorous verification.</p></p>
-                    
-                </article>
-                
-                <article class="page-card">
-                    <h3><a href="/technology/identity/">Digital Identity</a></h3>
+                    <h3><a href="/technology/digital-identity-management/">Digital Identity Management</a></h3>
                     
                     <p><h1 id="sovereign-control-over-your-digital-self">Sovereign control over your digital self.</h1>
 <p>Own your digital self. Inspired by John Wilkes&rsquo; fight for personal liberty, we forge unbreakable identities—free from trackers, shielded from forgery, yours alone.</p>
@@ -598,23 +729,7 @@
                 </article>
                 
                 <article class="page-card">
-                    <h3><a href="/technology/digital-modernization/">Digital Modernization</a></h3>
-                    
-                    <p><h1 id="revolutionary-transformation-for-the-digital-age">Revolutionary transformation for the digital age.</h1>
-<p>Shatter legacy constraints. Channeling Wilkes&rsquo; revolutionary spirit, we modernize your digital infrastructure with cutting-edge solutions that liberate your organization from outdated systems and bureaucratic bottlenecks.</p>
-<h2 id="why-our-modernization">Why Our Modernization?</h2>
-<ul>
-<li><strong>Legacy Liberation</strong>: Break free from outdated systems that constrain your potential.</li>
-<li><strong>Agile Transformation</strong>: Implement modern architectures that accelerate innovation and growth.</li>
-<li><strong>Strategic Evolution</strong>: Future-proof your technology stack with scalable, sovereign solutions.</li>
-<li><strong>Operational Revolution</strong>: Streamline processes and eliminate inefficiencies that hold you back.</li>
-</ul>
-<p>Modernize with purpose and power. <a href="/">Contact us</a>.</p></p>
-                    
-                </article>
-                
-                <article class="page-card">
-                    <h3><a href="/technology/infrastructure/">Infrastructure</a></h3>
+                    <h3><a href="/technology/digital-infrastructure/">Digital Infrastructure</a></h3>
                     
                     <p><h1 id="invisible-defenses-against-all-threats">Invisible defenses against all threats.</h1>
 <p>Vanish before they strike. Channeling John Wilkes&rsquo; defiance of overreach, we craft digital fortresses so obscured, adversaries can&rsquo;t even find the battlefield. Your infrastructure—untouchable, unseen.</p>
@@ -625,22 +740,6 @@
 <li><strong>Sovereign Foundations</strong>: Build systems that embody true digital liberty.</li>
 </ul>
 <p>Fortify your invisible edge. <a href="/">Contact us</a>.</p></p>
-                    
-                </article>
-                
-                <article class="page-card">
-                    <h3><a href="/technology/software-development/">Software Development</a></h3>
-                    
-                    <p><h1 id="bespoke-software-that-embodies-your-vision">Bespoke software that embodies your vision.</h1>
-<p>Code your independence. Like Wilkes&rsquo; principled stand against conformity, we craft custom software solutions that serve your unique mission—built to your specifications, owned entirely by you.</p>
-<h2 id="why-our-development">Why Our Development?</h2>
-<ul>
-<li><strong>Custom Liberation</strong>: Bespoke solutions tailored to your exact needs and competitive advantages.</li>
-<li><strong>Ownership Sovereignty</strong>: You own the code, the data, and the destiny of your software.</li>
-<li><strong>Agile Excellence</strong>: Rapid development cycles that adapt to your evolving requirements.</li>
-<li><strong>Privacy-First Engineering</strong>: Software architecture that prioritizes your data sovereignty and security.</li>
-</ul>
-<p>Build your digital independence. <a href="/">Contact us</a>.</p></p>
                     
                 </article>
                 

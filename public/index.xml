@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wilkes &amp; Liberty</title>
-    <link>http://localhost:1315/</link>
+    <link>https://www.wilkesliberty.com/</link>
     <description>Recent content on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 13:37:07 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1315/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 15:51:06 -0400</lastBuildDate>
+    <atom:link href="https://www.wilkesliberty.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blockchain</title>
-      <link>http://localhost:1315/technology/blockchain/</link>
-      <pubDate>Mon, 11 Aug 2025 13:37:07 -0400</pubDate>
-      <guid>http://localhost:1315/technology/blockchain/</guid>
-      <description>&lt;h1 id=&#34;blockchain-decentralizing-power-liberating-data&#34;&gt;Blockchain: Decentralizing Power, Liberating Data&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;The very essence of blockchain embodies John Wilkes&amp;rsquo; vision of distributed authority—no single entity should control the ledger of truth.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Blockchain technology represents the digital embodiment of revolutionary principles: decentralized authority, transparent governance, and cryptographic verification that makes trust unnecessary. Just as Wilkes fought against concentrated power in government, blockchain liberates organizations from dependence on centralized authorities and intermediaries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Traditional systems concentrate power in central authorities who control data, transactions, and verification processes. This creates:&lt;/p&gt;</description>
+      <title>Drupal CMS</title>
+      <link>https://www.wilkesliberty.com/technology/content-management/drupal-cms/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/technology/content-management/drupal-cms/</guid>
+      <description>Open-source content management system that enables digital sovereignty with complete control over content, data, and platform architecture.</description>
+    </item>
+    <item>
+      <title>XRP Ledger</title>
+      <link>https://www.wilkesliberty.com/technology/blockchain/xrp-ledger/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/technology/blockchain/xrp-ledger/</guid>
+      <description>Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.</description>
+    </item>
+    <item>
+      <title>Digital Identity Platforms</title>
+      <link>https://www.wilkesliberty.com/solutions/digital-identity-platform/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/digital-identity-platform/</guid>
+      <description>Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.</description>
     </item>
     <item>
       <title>AI for Financial Optimization</title>
-      <link>http://localhost:1315/solutions/ai-for-financial-optimization/</link>
+      <link>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/solutions/ai-for-financial-optimization/</guid>
+      <guid>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</guid>
       <description>&lt;h1 id=&#34;ai-for-financial-optimization-economic-liberation-through-intelligence&#34;&gt;AI for Financial Optimization: Economic Liberation Through Intelligence&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; fierce opposition to unjust taxation and economic oppression, our Financial AI liberates your resources from inefficiency, surveillance, and institutional control—delivering sovereign wealth optimization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;financial-independence-through-artificial-intelligence&#34;&gt;Financial Independence Through Artificial Intelligence&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-wealth-intelligence&#34;&gt;Sovereign Wealth Intelligence&lt;/h3&gt;&#xA;&lt;p&gt;Your financial data and strategies remain completely private while our AI maximizes your economic potential. No banks monitoring your moves, no governments tracking your optimization, no corporations mining your wealth patterns.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1315/technology/artificial-intelligence/</link>
+      <title>AI Specialist Support</title>
+      <link>https://www.wilkesliberty.com/services/ai-specialist-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/artificial-intelligence/</guid>
-      <description>&lt;h1 id=&#34;sovereign-ai-that-serves-only-you&#34;&gt;Sovereign AI that serves only you.&lt;/h1&gt;&#xA;&lt;p&gt;Break free from corporate AI overlords. Like Wilkes&amp;rsquo; rebellion against tyranny, we forge AI systems that answer to no master but you—private, powerful, and completely under your control.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-ai-matters&#34;&gt;Why Our AI Matters?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Private by Design&lt;/strong&gt;: Your AI models trained on your data, staying local and secure.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corporate Independence&lt;/strong&gt;: No dependency on Big Tech AI services or their surveillance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sovereign Intelligence&lt;/strong&gt;: AI systems that enhance your capabilities without compromising your liberty.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Advantage&lt;/strong&gt;: Custom AI solutions tailored to your unique competitive needs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reclaim your intelligence sovereignty. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/services/ai-specialist-support/</guid>
+      <description>&lt;h1 id=&#34;ai-specialist-support-autonomous-intelligence-for-digital-liberation&#34;&gt;AI Specialist Support: Autonomous Intelligence for Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; mastery of autonomous systems against tyrannical authorities, our AI specialists operate independently—delivering intelligent solutions while leaving no trace of their activities or your strategic requirements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sovereign-ai-operations&#34;&gt;Sovereign AI Operations&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ghost-network-ai&#34;&gt;Ghost Network AI&lt;/h3&gt;&#xA;&lt;p&gt;Traditional AI services create dependencies, data trails, and reporting structures that expose your strategic interests. Our AI specialists operate as digital ghosts—delivering intelligent automation while maintaining complete operational anonymity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://www.wilkesliberty.com/technology/artificial-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/technology/artificial-intelligence/</guid>
+      <description>&lt;h1 id=&#34;sovereign-ai-that-serves-only-you&#34;&gt;Sovereign AI that serves only you.&lt;/h1&gt;&#xA;&lt;p&gt;Break free from corporate AI overlords. Like Wilkes&amp;rsquo; rebellion against tyranny, we forge AI systems that answer to no master but you—private, powerful, and completely under your control.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-ai-matters&#34;&gt;Why Our AI Matters?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Private by Design&lt;/strong&gt;: Your AI models trained on your data, staying local and secure.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corporate Independence&lt;/strong&gt;: No dependency on Big Tech AI services or their surveillance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sovereign Intelligence&lt;/strong&gt;: AI systems that enhance your capabilities without compromising your liberty.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Advantage&lt;/strong&gt;: Custom AI solutions tailored to your unique competitive needs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reclaim your intelligence sovereignty. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Civil</title>
-      <link>http://localhost:1315/industries/civil/</link>
+      <link>https://www.wilkesliberty.com/industries/civil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/civil/</guid>
+      <guid>https://www.wilkesliberty.com/industries/civil/</guid>
       <description>&lt;h1 id=&#34;civil-digital-liberty-for-the-people&#34;&gt;Civil: Digital Liberty for the People&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; tireless advocacy for citizen rights, we empower civil society with technology that serves the people—not surveillance states or corporate oligarchs. True civil infrastructure belongs to the citizens it serves.&lt;/p&gt;&#xA;&lt;h2 id=&#34;liberating-civil-society&#34;&gt;Liberating Civil Society&lt;/h2&gt;&#xA;&lt;h3 id=&#34;citizen-first-technology&#34;&gt;Citizen-First Technology&lt;/h3&gt;&#xA;&lt;p&gt;Civil organizations deserve technology that strengthens democracy, not systems that monitor and control civilian populations. We build solutions that empower citizens while protecting their fundamental rights to privacy and autonomy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Operations</title>
-      <link>http://localhost:1315/technology/cloud-operations/</link>
+      <link>https://www.wilkesliberty.com/services/cloud-operations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/cloud-operations/</guid>
-      <description>&lt;h1 id=&#34;cloud-freedom-without-corporate-chains&#34;&gt;Cloud freedom without corporate chains.&lt;/h1&gt;&#xA;&lt;p&gt;Escape cloud vendor lock-in. Inspired by Wilkes&amp;rsquo; fight against monopolistic control, we orchestrate multi-cloud strategies that keep you sovereign, scalable, and free from Big Tech dependency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-cloud-operations&#34;&gt;Why Our Cloud Operations?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vendor Independence&lt;/strong&gt;: Multi-cloud strategies that prevent lock-in and maximize flexibility.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost Sovereignty&lt;/strong&gt;: Optimize across providers to slash costs while maintaining performance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Mobility&lt;/strong&gt;: Migrate workloads freely based on your business needs, not vendor restrictions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Excellence&lt;/strong&gt;: DevOps practices that embody true digital liberty and efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Break free from cloud tyranny. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/services/cloud-operations/</guid>
+      <description>&lt;h1 id=&#34;cloud-freedom-without-corporate-chains&#34;&gt;Cloud freedom without corporate chains.&lt;/h1&gt;&#xA;&lt;p&gt;Escape cloud vendor lock-in. Inspired by Wilkes&amp;rsquo; fight against monopolistic control, we orchestrate multi-cloud strategies that keep you sovereign, scalable, and free from Big Tech dependency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-cloud-operations&#34;&gt;Why Our Cloud Operations?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vendor Independence&lt;/strong&gt;: Multi-cloud strategies that prevent lock-in and maximize flexibility.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost Sovereignty&lt;/strong&gt;: Optimize across providers to slash costs while maintaining performance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Mobility&lt;/strong&gt;: Migrate workloads freely based on your business needs, not vendor restrictions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Excellence&lt;/strong&gt;: DevOps practices that embody true digital liberty and efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Break free from cloud tyranny. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1315/about/contact-us/</link>
+      <link>https://www.wilkesliberty.com/about/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about/contact-us/</guid>
+      <guid>https://www.wilkesliberty.com/about/contact-us/</guid>
       <description>&lt;h1 id=&#34;contact-us-begin-your-journey-to-digital-liberation&#34;&gt;Contact Us: Begin Your Journey to Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; open door for those seeking liberty, we welcome visionaries ready to break free from surveillance capitalism and achieve true technological independence. Your journey to digital sovereignty starts with a single, secure communication.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-contact-philosophy&#34;&gt;Revolutionary Contact Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Every interaction with Wilkes &amp;amp; Liberty is designed to protect your privacy and operational security. We don&amp;rsquo;t collect unnecessary information, create marketing profiles, or share contact details with external parties. Your inquiry remains completely confidential.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Content Management</title>
-      <link>http://localhost:1315/technology/content-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/content-management/</guid>
-      <description>&lt;h1 id=&#34;sovereign-control-over-your-digital-narrative&#34;&gt;Sovereign control over your digital narrative.&lt;/h1&gt;&#xA;&lt;p&gt;Own your content destiny. Like Wilkes&amp;rsquo; mastery of the written word to challenge authority, we forge content management systems that liberate your message from platform tyranny and corporate censorship.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-content-management&#34;&gt;Why Our Content Management?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Platform Independence&lt;/strong&gt;: Break free from social media overlords and content gatekeepers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Editorial Sovereignty&lt;/strong&gt;: Complete control over your narrative without algorithmic manipulation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Ownership&lt;/strong&gt;: Your content, your data, your rules—no third-party extraction or exploitation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Censorship Resistance&lt;/strong&gt;: Distribute your message through decentralized channels that can&amp;rsquo;t be silenced.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reclaim your voice and amplify your truth. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contract Vehicles</title>
-      <link>http://localhost:1315/about/contract-vehicles/</link>
+      <link>https://www.wilkesliberty.com/about/contract-vehicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about/contract-vehicles/</guid>
+      <guid>https://www.wilkesliberty.com/about/contract-vehicles/</guid>
       <description>&lt;h1 id=&#34;contract-vehicles-flexible-pathways-to-digital-liberation&#34;&gt;Contract Vehicles: Flexible Pathways to Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic approach to achieving liberty through multiple channels, we provide diverse contract vehicles that accommodate your organization&amp;rsquo;s unique procurement requirements while maintaining our unwavering commitment to digital sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-contracting-philosophy&#34;&gt;Revolutionary Contracting Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Traditional contract vehicles often compromise client sovereignty through surveillance clauses, data collection requirements, and external oversight provisions. Our contracting approach prioritizes your independence while meeting all legitimate procurement and compliance requirements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Corporate Citizenship</title>
-      <link>http://localhost:1315/about/corporate-citizenship/</link>
+      <link>https://www.wilkesliberty.com/about/corporate-citizenship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about/corporate-citizenship/</guid>
+      <guid>https://www.wilkesliberty.com/about/corporate-citizenship/</guid>
       <description>&lt;h1 id=&#34;corporate-citizenship-revolutionary-responsibility-in-action&#34;&gt;Corporate Citizenship: Revolutionary Responsibility in Action&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; commitment to society and the common good, Wilkes &amp;amp; Liberty practices corporate citizenship that advances digital liberation for all—not just our clients. True responsibility means building a more sovereign digital future for everyone.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-corporate-philosophy&#34;&gt;Revolutionary Corporate Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Corporate citizenship in the digital age means more than charity or compliance—it means actively working to liberate society from surveillance capitalism and technological oppression. Our responsibilities extend beyond profit to include the advancement of digital human rights.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>http://localhost:1315/technology/cybersecurity/</link>
+      <link>https://www.wilkesliberty.com/services/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/cybersecurity/</guid>
+      <guid>https://www.wilkesliberty.com/services/cybersecurity/</guid>
       <description>&lt;h1 id=&#34;impenetrable-defenses-for-the-digital-battlefield&#34;&gt;Impenetrable Defenses for the Digital Battlefield&lt;/h1&gt;&#xA;&lt;p&gt;In the spirit of John Wilkes&amp;rsquo; fearless stand against tyranny, we forge digital fortresses that repel every threat. From state surveillance to corporate espionage, criminal enterprises to authoritarian overreach—your digital sovereignty remains uncompromised.&lt;/p&gt;&#xA;&lt;p&gt;Like the revolutionaries who declared independence from oppression, we declare independence from digital tyranny.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-revolutionary-approach&#34;&gt;Our Revolutionary Approach&lt;/h2&gt;&#xA;&lt;h3 id=&#34;zero-trust-architecture&#34;&gt;Zero-Trust Architecture&lt;/h3&gt;&#xA;&lt;p&gt;Verify everything, trust nothing. Just as Wilkes questioned authority at every turn, our systems challenge every access request. No entity—internal or external—gains passage without rigorous verification.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Defense</title>
-      <link>http://localhost:1315/industries/defense/</link>
+      <title>Digital Identity Management</title>
+      <link>https://www.wilkesliberty.com/technology/digital-identity-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/defense/</guid>
-      <description>&lt;h1 id=&#34;defense-sovereign-protection-in-a-hostile-digital-world&#34;&gt;Defense: Sovereign Protection in a Hostile Digital World&lt;/h1&gt;&#xA;&lt;p&gt;Channeling Wilkes&amp;rsquo; defiant resistance against oppressive forces, we forge defense technologies that protect national sovereignty while preserving the liberties they&amp;rsquo;re meant to defend. True security never requires sacrificing freedom.&lt;/p&gt;&#xA;&lt;h2 id=&#34;digital-defense-liberation&#34;&gt;Digital Defense Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-military-technology&#34;&gt;Sovereign Military Technology&lt;/h3&gt;&#xA;&lt;p&gt;Defense systems should strengthen national security without creating surveillance states that monitor their own citizens. We build military-grade protection that defends against external threats while preserving internal liberties.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/technology/digital-identity-management/</guid>
+      <description>&lt;h1 id=&#34;sovereign-control-over-your-digital-self&#34;&gt;Sovereign control over your digital self.&lt;/h1&gt;&#xA;&lt;p&gt;Own your digital self. Inspired by John Wilkes&amp;rsquo; fight for personal liberty, we forge unbreakable identities—free from trackers, shielded from forgery, yours alone.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-identity-solutions&#34;&gt;Why Our Identity Solutions?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Decentralized Control&lt;/strong&gt;: Your identity, no third-party chains.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ironclad Privacy&lt;/strong&gt;: Impenetrable to breaches or prying eyes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unbound Freedom&lt;/strong&gt;: Operate anonymously, empowered, untethered.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Secure your sovereign identity. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Digital Accelerators</title>
-      <link>http://localhost:1315/solutions/digital-accelerators/</link>
+      <title>Digital Infrastructure</title>
+      <link>https://www.wilkesliberty.com/technology/digital-infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/solutions/digital-accelerators/</guid>
-      <description>&lt;h1 id=&#34;digital-accelerators-velocity-without-compromise&#34;&gt;Digital Accelerators: Velocity Without Compromise&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; rapid mobilization of liberty-minded citizens, our Digital Accelerators propel your organization toward digital independence at revolutionary speed—without sacrificing security or sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;accelerated-liberation&#34;&gt;Accelerated Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;rapid-deployment-solutions&#34;&gt;Rapid Deployment Solutions&lt;/h3&gt;&#xA;&lt;p&gt;Break free from lengthy implementation cycles that keep you dependent on legacy systems. Our accelerators compress months of traditional development into weeks of transformative progress.&lt;/p&gt;&#xA;&lt;h3 id=&#34;speed-without-surveillance&#34;&gt;Speed Without Surveillance&lt;/h3&gt;&#xA;&lt;p&gt;Traditional accelerators come with strings attached—vendor lock-in, data collection, and loss of control. Ours deliver velocity while preserving your digital sovereignty.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digital Identity</title>
-      <link>http://localhost:1315/technology/identity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/identity/</guid>
-      <description>&lt;h1 id=&#34;sovereign-control-over-your-digital-self&#34;&gt;Sovereign control over your digital self.&lt;/h1&gt;&#xA;&lt;p&gt;Own your digital self. Inspired by John Wilkes&amp;rsquo; fight for personal liberty, we forge unbreakable identities—free from trackers, shielded from forgery, yours alone.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-identity-solutions&#34;&gt;Why Our Identity Solutions?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Decentralized Control&lt;/strong&gt;: Your identity, no third-party chains.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ironclad Privacy&lt;/strong&gt;: Impenetrable to breaches or prying eyes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unbound Freedom&lt;/strong&gt;: Operate anonymously, empowered, untethered.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Secure your sovereign identity. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/technology/digital-infrastructure/</guid>
+      <description>&lt;h1 id=&#34;invisible-defenses-against-all-threats&#34;&gt;Invisible defenses against all threats.&lt;/h1&gt;&#xA;&lt;p&gt;Vanish before they strike. Channeling John Wilkes&amp;rsquo; defiance of overreach, we craft digital fortresses so obscured, adversaries can&amp;rsquo;t even find the battlefield. Your infrastructure—untouchable, unseen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-approach&#34;&gt;Why Our Approach?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stealth Mastery&lt;/strong&gt;: Hide assets with dynamic, AI-driven obfuscation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Threat Evasion&lt;/strong&gt;: Defy even the most persistent probes, state or shadow.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sovereign Foundations&lt;/strong&gt;: Build systems that embody true digital liberty.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Fortify your invisible edge. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Modernization</title>
-      <link>http://localhost:1315/technology/digital-modernization/</link>
+      <link>https://www.wilkesliberty.com/services/digital-modernization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/digital-modernization/</guid>
-      <description>&lt;h1 id=&#34;revolutionary-transformation-for-the-digital-age&#34;&gt;Revolutionary transformation for the digital age.&lt;/h1&gt;&#xA;&lt;p&gt;Shatter legacy constraints. Channeling Wilkes&amp;rsquo; revolutionary spirit, we modernize your digital infrastructure with cutting-edge solutions that liberate your organization from outdated systems and bureaucratic bottlenecks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-modernization&#34;&gt;Why Our Modernization?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Legacy Liberation&lt;/strong&gt;: Break free from outdated systems that constrain your potential.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Transformation&lt;/strong&gt;: Implement modern architectures that accelerate innovation and growth.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Evolution&lt;/strong&gt;: Future-proof your technology stack with scalable, sovereign solutions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Revolution&lt;/strong&gt;: Streamline processes and eliminate inefficiencies that hold you back.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Modernize with purpose and power. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/services/digital-modernization/</guid>
+      <description>&lt;h1 id=&#34;revolutionary-transformation-for-the-digital-age&#34;&gt;Revolutionary transformation for the digital age.&lt;/h1&gt;&#xA;&lt;p&gt;Shatter legacy constraints. Channeling Wilkes&amp;rsquo; revolutionary spirit, we modernize your digital infrastructure with cutting-edge solutions that liberate your organization from outdated systems and bureaucratic bottlenecks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-modernization&#34;&gt;Why Our Modernization?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Legacy Liberation&lt;/strong&gt;: Break free from outdated systems that constrain your potential.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Transformation&lt;/strong&gt;: Implement modern architectures that accelerate innovation and growth.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Evolution&lt;/strong&gt;: Future-proof your technology stack with scalable, sovereign solutions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Revolution&lt;/strong&gt;: Streamline processes and eliminate inefficiencies that hold you back.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Modernize with purpose and power. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1315/industries/education/</link>
+      <link>https://www.wilkesliberty.com/industries/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/education/</guid>
+      <guid>https://www.wilkesliberty.com/industries/education/</guid>
       <description>&lt;h1 id=&#34;education-enlightenment-without-surveillance&#34;&gt;Education: Enlightenment Without Surveillance&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; belief that education liberates minds from tyranny, we create learning technologies that illuminate truth while protecting intellectual freedom. True education empowers independent thought, not conformity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;learning-liberation&#34;&gt;Learning Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-educational-technology&#34;&gt;Sovereign Educational Technology&lt;/h3&gt;&#xA;&lt;p&gt;Educational institutions deserve technology that enhances learning without monitoring minds. We build systems that strengthen knowledge while protecting the privacy of thought, inquiry, and intellectual development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-educational-philosophy&#34;&gt;Revolutionary Educational Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional educational technology creates surveillance systems that monitor student behavior, track thought patterns, and profile intellectual development. Our approach builds private learning environments that serve education, not data collection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:1315/industries/finance/</link>
+      <link>https://www.wilkesliberty.com/industries/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/finance/</guid>
+      <guid>https://www.wilkesliberty.com/industries/finance/</guid>
       <description>&lt;h1 id=&#34;finance-economic-liberation-through-digital-sovereignty&#34;&gt;Finance: Economic Liberation Through Digital Sovereignty&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; fierce opposition to unjust taxation and economic tyranny, we create financial technologies that serve wealth creation while protecting economic privacy. True finance empowers prosperity, not surveillance capitalism.&lt;/p&gt;&#xA;&lt;h2 id=&#34;financial-liberation&#34;&gt;Financial Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-financial-technology&#34;&gt;Sovereign Financial Technology&lt;/h3&gt;&#xA;&lt;p&gt;Financial institutions deserve technology that optimizes economic outcomes without exposing financial privacy. We build systems that strengthen wealth while protecting the intimate details of financial behavior and economic decisions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-financial-philosophy&#34;&gt;Revolutionary Financial Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional financial technology creates surveillance systems that monitor spending behavior, track wealth patterns, and expose financial privacy to government and corporate authorities. Our approach builds private financial environments that serve prosperity, not control.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Government</title>
-      <link>http://localhost:1315/industries/government/</link>
+      <link>https://www.wilkesliberty.com/industries/government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/government/</guid>
+      <guid>https://www.wilkesliberty.com/industries/government/</guid>
       <description>&lt;h1 id=&#34;government-digital-governance-without-tyranny&#34;&gt;Government: Digital Governance Without Tyranny&lt;/h1&gt;&#xA;&lt;p&gt;Inspired by Wilkes&amp;rsquo; vision of government that serves rather than oppresses, we create public sector technologies that strengthen democratic institutions while protecting citizen rights. True governance empowers democracy, not surveillance states.&lt;/p&gt;&#xA;&lt;h2 id=&#34;governmental-liberation&#34;&gt;Governmental Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-government-technology&#34;&gt;Sovereign Government Technology&lt;/h3&gt;&#xA;&lt;p&gt;Government agencies deserve technology that enhances public service without creating surveillance apparatus. We build systems that strengthen governance while protecting the rights and privacy of the citizens they&amp;rsquo;re meant to serve.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Health</title>
-      <link>http://localhost:1315/industries/health/</link>
+      <link>https://www.wilkesliberty.com/industries/health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/health/</guid>
+      <guid>https://www.wilkesliberty.com/industries/health/</guid>
       <description>&lt;h1 id=&#34;health-medical-freedom-through-digital-sovereignty&#34;&gt;Health: Medical Freedom Through Digital Sovereignty&lt;/h1&gt;&#xA;&lt;p&gt;Inspired by Wilkes&amp;rsquo; fight for individual liberty, we create healthcare technologies that heal bodies while protecting the privacy of medical information. True healthcare serves patients, not surveillance systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;healthcare-liberation&#34;&gt;Healthcare Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-medical-technology&#34;&gt;Sovereign Medical Technology&lt;/h3&gt;&#xA;&lt;p&gt;Healthcare institutions deserve technology that improves patient outcomes without exposing medical privacy. We build systems that strengthen healing while protecting the intimate details of health information and treatment decisions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-healthcare-philosophy&#34;&gt;Revolutionary Healthcare Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional healthcare technology creates surveillance systems that monitor patient behavior, track health patterns, and expose medical privacy to external authorities. Our approach builds private healthcare environments that serve healing, not data collection.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Infrastructure</title>
-      <link>http://localhost:1315/technology/infrastructure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/infrastructure/</guid>
-      <description>&lt;h1 id=&#34;invisible-defenses-against-all-threats&#34;&gt;Invisible defenses against all threats.&lt;/h1&gt;&#xA;&lt;p&gt;Vanish before they strike. Channeling John Wilkes&amp;rsquo; defiance of overreach, we craft digital fortresses so obscured, adversaries can&amp;rsquo;t even find the battlefield. Your infrastructure—untouchable, unseen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-approach&#34;&gt;Why Our Approach?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stealth Mastery&lt;/strong&gt;: Hide assets with dynamic, AI-driven obfuscation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Threat Evasion&lt;/strong&gt;: Defy even the most persistent probes, state or shadow.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sovereign Foundations&lt;/strong&gt;: Build systems that embody true digital liberty.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Fortify your invisible edge. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Innovation</title>
-      <link>http://localhost:1315/solutions/innovation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/solutions/innovation/</guid>
-      <description>&lt;h1 id=&#34;revolutionary-innovation-for-digital-liberation&#34;&gt;Revolutionary Innovation for Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;In the tradition of John Wilkes&amp;rsquo; groundbreaking challenges to authority, we pioneer transformative solutions that shatter conventional boundaries and redefine what&amp;rsquo;s possible in the digital realm.&lt;/p&gt;&#xA;&lt;h2 id=&#34;breaking-the-chains-of-convention&#34;&gt;Breaking the Chains of Convention&lt;/h2&gt;&#xA;&lt;h3 id=&#34;disruptive-technology-development&#34;&gt;Disruptive Technology Development&lt;/h3&gt;&#xA;&lt;p&gt;We don&amp;rsquo;t just follow trends—we create them. Our innovation lab develops cutting-edge solutions that challenge established norms and deliver unprecedented capabilities to organizations ready to embrace digital revolution.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-product-design&#34;&gt;Revolutionary Product Design&lt;/h3&gt;&#xA;&lt;p&gt;Every solution we create is designed with liberation in mind. We build products that free organizations from vendor lock-in, surveillance capitalism, and technological tyranny.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Intelligence</title>
-      <link>http://localhost:1315/industries/intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/industries/intelligence/</guid>
-      <description>&lt;h1 id=&#34;intelligence-shadow-operations-for-national-liberation&#34;&gt;Intelligence: Shadow Operations for National Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; mastery of information warfare against tyrannical systems, we create intelligence technologies that serve national interests while protecting operational security. True intelligence strengthens sovereignty, not surveillance states.&lt;/p&gt;&#xA;&lt;h2 id=&#34;intelligence-liberation&#34;&gt;Intelligence Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-intelligence-technology&#34;&gt;Sovereign Intelligence Technology&lt;/h3&gt;&#xA;&lt;p&gt;Intelligence agencies deserve technology that enhances national security without exposing operational methods. We build systems that strengthen intelligence while protecting the sensitive details of sources, methods, and strategic operations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-intelligence-philosophy&#34;&gt;Revolutionary Intelligence Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional intelligence technology creates surveillance systems that monitor allied populations, expose operational security, and compromise the very assets they&amp;rsquo;re meant to protect. Our approach builds private intelligence environments that serve national security, not authoritarian control.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Intelligence Specialist Support</title>
-      <link>http://localhost:1315/services/intelligence-specialist-support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/services/intelligence-specialist-support/</guid>
-      <description>&lt;h1 id=&#34;intelligence-specialist-support-shadow-operations-for-digital-liberation&#34;&gt;Intelligence Specialist Support: Shadow Operations for Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; mastery of information warfare against tyrannical authorities, our intelligence specialists operate in the shadows—gathering strategic insights while leaving no trace of their activities or your interests.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sovereign-intelligence-operations&#34;&gt;Sovereign Intelligence Operations&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ghost-network-intelligence&#34;&gt;Ghost Network Intelligence&lt;/h3&gt;&#xA;&lt;p&gt;Traditional intelligence services create paper trails, reporting structures, and dependencies that expose your strategic interests. Our specialists operate as digital ghosts—gathering critical intelligence while maintaining complete operational anonymity.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Leadership</title>
-      <link>http://localhost:1315/about/leadership/</link>
+      <link>https://www.wilkesliberty.com/about/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about/leadership/</guid>
+      <guid>https://www.wilkesliberty.com/about/leadership/</guid>
       <description>&lt;h1 id=&#34;leadership-the-architects-of-digital-liberation&#34;&gt;Leadership: The Architects of Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; courageous leadership in the face of authoritarian power, our leadership team comprises visionaries who refuse to accept the surveillance state&amp;rsquo;s dominance over digital life. We lead by example, building the technologies and strategies that others follow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-leadership-philosophy&#34;&gt;Revolutionary Leadership Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;True leadership in the digital age means rejecting comfortable compliance with surveillance capitalism and choosing the harder path of genuine innovation. Our leaders don&amp;rsquo;t just manage—they liberate, inspire, and forge new pathways to technological independence.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Logistics &amp; Supply Chain Management</title>
-      <link>http://localhost:1315/services/logistics-supply-chain-management/</link>
+      <title>Legal</title>
+      <link>https://www.wilkesliberty.com/industries/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/services/logistics-supply-chain-management/</guid>
+      <guid>https://www.wilkesliberty.com/industries/legal/</guid>
+      <description>&lt;h1 id=&#34;legal-justice-through-digital-liberation&#34;&gt;Legal: Justice Through Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; relentless pursuit of legal justice and constitutional rights, we create legal technologies that serve the cause of justice while protecting attorney-client privilege and the confidential nature of legal practice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;legal-liberation&#34;&gt;Legal Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-legal-technology&#34;&gt;Sovereign Legal Technology&lt;/h3&gt;&#xA;&lt;p&gt;Legal practices deserve technology that enhances justice delivery without exposing client confidentiality. We build systems that strengthen legal services while protecting the privileged communications and case strategies that are fundamental to effective legal representation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logistics &amp; Supply Chain Management</title>
+      <link>https://www.wilkesliberty.com/technology/blockchain/logistics-supply-chain-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/technology/blockchain/logistics-supply-chain-management/</guid>
       <description>&lt;h1 id=&#34;logistics--supply-chain-management-autonomous-operations-beyond-control&#34;&gt;Logistics &amp;amp; Supply Chain Management: Autonomous Operations Beyond Control&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic coordination of colonial resistance networks, our logistics services create autonomous supply chains that operate independently of centralized control systems and surveillance networks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;supply-chain-liberation&#34;&gt;Supply Chain Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-operations-management&#34;&gt;Sovereign Operations Management&lt;/h3&gt;&#xA;&lt;p&gt;Break free from logistics platforms that monitor, analyze, and control your supply chains. Our management services create truly independent operational networks that answer only to you.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-logistics-philosophy&#34;&gt;Revolutionary Logistics Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional supply chain management creates dependencies, data exposure, and points of control. Our approach builds resilient, private networks that strengthen with every transaction while revealing nothing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Press Releases</title>
-      <link>http://localhost:1315/about/press-releases/</link>
+      <link>https://www.wilkesliberty.com/about/press-releases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/about/press-releases/</guid>
+      <guid>https://www.wilkesliberty.com/about/press-releases/</guid>
       <description>&lt;h1 id=&#34;press-releases-chronicles-of-the-digital-liberation-movement&#34;&gt;Press Releases: Chronicles of the Digital Liberation Movement&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic use of media to advance the cause of liberty, our press releases document the ongoing battle for digital sovereignty and the victories won by those who refuse to surrender their technological independence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-communications-strategy&#34;&gt;Revolutionary Communications Strategy&lt;/h2&gt;&#xA;&lt;p&gt;Our press releases don&amp;rsquo;t just announce business developments—they chronicle the advancement of digital liberation. Each release serves the broader mission of awakening organizations to the possibilities of true technological independence.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Product AI</title>
-      <link>http://localhost:1315/solutions/product-ai/</link>
+      <title>Privacy</title>
+      <link>https://www.wilkesliberty.com/solutions/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/solutions/product-ai/</guid>
+      <guid>https://www.wilkesliberty.com/solutions/privacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-digital-liberation-through-absolute-confidentiality&#34;&gt;Privacy: Digital Liberation Through Absolute Confidentiality&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;As Wilkes fought to protect individual rights from government surveillance and control, our Privacy solutions ensure your digital life remains completely confidential and free from corporate and state monitoring.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Revolutionary privacy protection systems that eliminate surveillance vulnerabilities while preserving your complete freedom to communicate, transact, and operate in the digital realm without compromise.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-privacy-crisis&#34;&gt;The Privacy Crisis&lt;/h2&gt;&#xA;&lt;p&gt;Modern digital systems systematically violate privacy through:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corporate Surveillance&lt;/strong&gt;: Technology companies harvest personal data for profit and control&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Government Monitoring&lt;/strong&gt;: State surveillance systems track citizens without consent or oversight&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Exploitation&lt;/strong&gt;: Personal information becomes property of surveillance capitalists&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Behavioral Manipulation&lt;/strong&gt;: Private data enables psychological influence and social control&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Identity Theft&lt;/strong&gt;: Centralized data stores create massive targets for malicious actors&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These surveillance systems treat privacy as an obstacle to overcome rather than a fundamental right to protect.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Private LLMs</title>
+      <link>https://www.wilkesliberty.com/solutions/private-llms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/private-llms/</guid>
+      <description>&lt;h1 id=&#34;private-llms-intelligent-liberation-from-ai-surveillance&#34;&gt;Private LLMs: Intelligent Liberation from AI Surveillance&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Just as Wilkes refused to surrender intellectual freedom to authoritarian control, our Private Large Language Models ensure your AI capabilities serve your mission without exposing your data to surveillance networks.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Revolutionary Large Language Model solutions that deliver cutting-edge AI capabilities while maintaining complete data sovereignty, operational independence, and zero external dependencies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Corporate AI services extract maximum value from your data while delivering minimum control over your intelligence:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product AI</title>
+      <link>https://www.wilkesliberty.com/solutions/product-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.wilkesliberty.com/solutions/product-ai/</guid>
       <description>&lt;h1 id=&#34;product-ai-intelligence-without-oppression&#34;&gt;Product AI: Intelligence Without Oppression&lt;/h1&gt;&#xA;&lt;p&gt;Channeling Wilkes&amp;rsquo; intellectual rebellion against tyrannical systems, our Product AI delivers revolutionary intelligence that serves your vision—not corporate overlords or surveillance networks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artificial-intelligence-genuine-liberty&#34;&gt;Artificial Intelligence, Genuine Liberty&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-ai-systems&#34;&gt;Sovereign AI Systems&lt;/h3&gt;&#xA;&lt;p&gt;Your AI belongs to you alone. No external training on your data, no backdoors for surveillance agencies, no corporate manipulation of your intelligent systems. Pure, autonomous intelligence under your complete control.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-ai-philosophy&#34;&gt;Revolutionary AI Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional AI systems are designed to extract, monitor, and control. Our Product AI is built on the radical principle that artificial intelligence should amplify human freedom, not diminish it.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Software Development</title>
-      <link>http://localhost:1315/technology/software-development/</link>
+      <title>Security</title>
+      <link>https://www.wilkesliberty.com/solutions/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/technology/software-development/</guid>
-      <description>&lt;h1 id=&#34;bespoke-software-that-embodies-your-vision&#34;&gt;Bespoke software that embodies your vision.&lt;/h1&gt;&#xA;&lt;p&gt;Code your independence. Like Wilkes&amp;rsquo; principled stand against conformity, we craft custom software solutions that serve your unique mission—built to your specifications, owned entirely by you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-development&#34;&gt;Why Our Development?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Liberation&lt;/strong&gt;: Bespoke solutions tailored to your exact needs and competitive advantages.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ownership Sovereignty&lt;/strong&gt;: You own the code, the data, and the destiny of your software.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Excellence&lt;/strong&gt;: Rapid development cycles that adapt to your evolving requirements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privacy-First Engineering&lt;/strong&gt;: Software architecture that prioritizes your data sovereignty and security.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Build your digital independence. &lt;a href=&#34;http://localhost:1315/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/solutions/security/</guid>
+      <description>&lt;h1 id=&#34;security-impenetrable-fortresses-for-digital-independence&#34;&gt;Security: Impenetrable Fortresses for Digital Independence&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Like Wilkes&amp;rsquo; unwavering defense against tyrannical forces, our Security solutions forge digital bastions that repel all threats while preserving your complete operational freedom and sovereignty.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Revolutionary security architectures that create impenetrable digital fortresses, protecting your assets, data, and operations from every form of cyber threat while maintaining absolute independence from surveillance and control systems.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-security-crisis&#34;&gt;The Security Crisis&lt;/h2&gt;&#xA;&lt;p&gt;Modern cybersecurity fails to deliver true protection because it serves multiple masters:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Training &amp; Simulation</title>
-      <link>http://localhost:1315/services/training-simulation/</link>
+      <title>Software Development</title>
+      <link>https://www.wilkesliberty.com/services/software-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/services/training-simulation/</guid>
-      <description>&lt;h1 id=&#34;training--simulation-forge-warriors-of-digital-liberty&#34;&gt;Training &amp;amp; Simulation: Forge Warriors of Digital Liberty&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; commitment to educating citizens in the arts of resistance, our training services create digital freedom fighters—equipped with the knowledge and skills to defend sovereignty in an increasingly surveilled world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-education-for-digital-independence&#34;&gt;Revolutionary Education for Digital Independence&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-skill-development&#34;&gt;Sovereign Skill Development&lt;/h3&gt;&#xA;&lt;p&gt;Traditional training platforms monitor your progress, analyze your weaknesses, and create profiles for external consumption. Our training operates in complete privacy, building your capabilities without exposing your strategic interests.&lt;/p&gt;</description>
+      <guid>https://www.wilkesliberty.com/services/software-development/</guid>
+      <description>&lt;h1 id=&#34;bespoke-software-that-embodies-your-vision&#34;&gt;Bespoke software that embodies your vision.&lt;/h1&gt;&#xA;&lt;p&gt;Code your independence. Like Wilkes&amp;rsquo; principled stand against conformity, we craft custom software solutions that serve your unique mission—built to your specifications, owned entirely by you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-development&#34;&gt;Why Our Development?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Liberation&lt;/strong&gt;: Bespoke solutions tailored to your exact needs and competitive advantages.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ownership Sovereignty&lt;/strong&gt;: You own the code, the data, and the destiny of your software.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Excellence&lt;/strong&gt;: Rapid development cycles that adapt to your evolving requirements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privacy-First Engineering&lt;/strong&gt;: Software architecture that prioritizes your data sovereignty and security.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Build your digital independence. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zero Trust</title>
-      <link>http://localhost:1315/solutions/zero-trust/</link>
+      <link>https://www.wilkesliberty.com/solutions/zero-trust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/solutions/zero-trust/</guid>
+      <guid>https://www.wilkesliberty.com/solutions/zero-trust/</guid>
       <description>&lt;h1 id=&#34;zero-trust-absolute-verification-absolute-freedom&#34;&gt;Zero Trust: Absolute Verification, Absolute Freedom&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; fundamental skepticism of all authority, our Zero Trust architecture treats every entity as potentially hostile until proven otherwise—creating impenetrable digital fortresses that protect your sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trust-nothing-verify-everything&#34;&gt;Trust Nothing, Verify Everything&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-revolutionary-security-philosophy&#34;&gt;The Revolutionary Security Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;John Wilkes never accepted authority at face value, and neither should your security systems. Our Zero Trust model assumes breach, questions every request, and grants access only after rigorous, continuous verification.&lt;/p&gt;</description>
     </item>
   </channel>

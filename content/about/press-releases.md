@@ -4,7 +4,7 @@ url: /about/press-releases/
 menu:
   main:
     parent: "about"
-    weight: 52
+    weight: 54
 ---
 
 # Press Releases: Chronicles of the Digital Liberation Movement

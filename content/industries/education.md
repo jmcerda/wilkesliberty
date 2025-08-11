@@ -4,7 +4,7 @@ url: /industries/education/
 menu:
   main:
     parent: "industries"
-    weight: 43
+    weight: 41
 ---
 
 # Education: Enlightenment Without Surveillance
