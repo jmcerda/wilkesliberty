@@ -1,6 +1,6 @@
 ---
 title: "Digital Identity Platforms"
-url: /solutions/digital-identity-platform/
+url: /solutions/digital-identity-platforms/
 
 # Menu configuration
 menu:

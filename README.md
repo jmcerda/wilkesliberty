@@ -33,7 +33,7 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 │   ├── solutions/          # Product solutions
 │   │   ├── _index.md       # Solutions landing page
 │   │   ├── ai-for-financial-optimization.md
-│   │   ├── digital-identity-platform.md
+│   │   ├── digital-identity-platforms.md
 │   │   ├── private-llms.md
 │   │   ├── product-ai.md
 │   │   └── zero-trust.md
