@@ -16,7 +16,16 @@
                       {{ if .Children }}
                         <ul class="sub-submenu">
                           {{ range .Children }}
-                            <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                            <li class="{{ if .Children }}has-sub-sub-submenu{{ end }}">
+                              <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+                              {{ if .Children }}
+                                <ul class="sub-sub-submenu">
+                                  {{ range .Children }}
+                                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                                  {{ end }}
+                                </ul>
+                              {{ end }}
+                            </li>
                           {{ end }}
                         </ul>
                       {{ end }}

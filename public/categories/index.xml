@@ -2,136 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wilkes &amp; Liberty</title>
-    <link>https://www.wilkesliberty.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 20:53:10 -0400</lastBuildDate>
-    <atom:link href="https://www.wilkesliberty.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 02:01:07 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Liberation</title>
+      <link>http://localhost:1313/categories/digital-liberation/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/categories/digital-liberation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/categories/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Updates</title>
+      <link>http://localhost:1313/categories/updates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/updates/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Case Studies</title>
-      <link>https://www.wilkesliberty.com/categories/case-studies/</link>
+      <link>http://localhost:1313/categories/case-studies/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/case-studies/</guid>
+      <guid>http://localhost:1313/categories/case-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Services</title>
+      <link>http://localhost:1313/categories/financial-services/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/categories/financial-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/categories/resources/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/categories/resources/</guid>
       <description></description>
     </item>
     <item>
       <title>Success Stories</title>
-      <link>https://www.wilkesliberty.com/categories/success-stories/</link>
+      <link>http://localhost:1313/categories/success-stories/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/success-stories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockchain Platform</title>
-      <link>https://www.wilkesliberty.com/categories/blockchain-platform/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/blockchain-platform/</guid>
+      <guid>http://localhost:1313/categories/success-stories/</guid>
       <description></description>
     </item>
     <item>
       <title>Capabilities</title>
-      <link>https://www.wilkesliberty.com/categories/capabilities/</link>
+      <link>http://localhost:1313/categories/capabilities/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/capabilities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consulting Services</title>
-      <link>https://www.wilkesliberty.com/categories/consulting-services/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/consulting-services/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Liberation</title>
-      <link>https://www.wilkesliberty.com/categories/digital-liberation/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/digital-liberation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Financial Technology</title>
-      <link>https://www.wilkesliberty.com/categories/financial-technology/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/financial-technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Product Solutions</title>
-      <link>https://www.wilkesliberty.com/categories/product-solutions/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/product-solutions/</guid>
+      <guid>http://localhost:1313/categories/capabilities/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>https://www.wilkesliberty.com/categories/blockchain/</link>
+      <link>http://localhost:1313/categories/blockchain/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/blockchain/</guid>
+      <guid>http://localhost:1313/categories/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Content Management</title>
-      <link>https://www.wilkesliberty.com/categories/content-management/</link>
+      <link>http://localhost:1313/categories/content-management/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/content-management/</guid>
+      <guid>http://localhost:1313/categories/content-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://www.wilkesliberty.com/categories/development/</link>
+      <link>http://localhost:1313/categories/development/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/development/</guid>
+      <guid>http://localhost:1313/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Sovereignty</title>
-      <link>https://www.wilkesliberty.com/categories/digital-sovereignty/</link>
+      <link>http://localhost:1313/categories/digital-sovereignty/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/digital-sovereignty/</guid>
+      <guid>http://localhost:1313/categories/digital-sovereignty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Technology</title>
+      <link>http://localhost:1313/categories/financial-technology/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>http://localhost:1313/categories/financial-technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity Management</title>
-      <link>https://www.wilkesliberty.com/categories/identity-management/</link>
+      <link>http://localhost:1313/categories/identity-management/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/identity-management/</guid>
+      <guid>http://localhost:1313/categories/identity-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure</title>
-      <link>https://www.wilkesliberty.com/categories/infrastructure/</link>
+      <link>http://localhost:1313/categories/infrastructure/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/infrastructure/</guid>
+      <guid>http://localhost:1313/categories/infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Source</title>
-      <link>https://www.wilkesliberty.com/categories/open-source/</link>
+      <link>http://localhost:1313/categories/open-source/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Solutions</title>
-      <link>https://www.wilkesliberty.com/categories/solutions/</link>
-      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/solutions/</guid>
+      <guid>http://localhost:1313/categories/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://www.wilkesliberty.com/categories/technology/</link>
+      <link>http://localhost:1313/categories/technology/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/technology/</guid>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain Platform</title>
+      <link>http://localhost:1313/categories/blockchain-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/blockchain-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting Services</title>
+      <link>http://localhost:1313/categories/consulting-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/consulting-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development Solutions</title>
+      <link>http://localhost:1313/categories/development-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/development-solutions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Transformation</title>
+      <link>http://localhost:1313/categories/digital-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/digital-transformation/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure Platform</title>
-      <link>https://www.wilkesliberty.com/categories/infrastructure-platform/</link>
+      <link>http://localhost:1313/categories/infrastructure-platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/categories/infrastructure-platform/</guid>
+      <guid>http://localhost:1313/categories/infrastructure-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Solutions</title>
+      <link>http://localhost:1313/categories/product-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/product-solutions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solution Platforms</title>
+      <link>http://localhost:1313/categories/solution-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/solution-platforms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solutions</title>
+      <link>http://localhost:1313/categories/solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/solutions/</guid>
       <description></description>
     </item>
   </channel>

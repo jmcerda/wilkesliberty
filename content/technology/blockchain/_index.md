@@ -19,8 +19,8 @@ Blockchain technology represents the digital embodiment of revolutionary princip
 ### [XRP Ledger](/technology/blockchain/xrp-ledger/)
 Revolutionary decentralized payment and settlement blockchain offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
 
-### Blockchain-Powered Logistics Solutions
-Our [Logistics & Supply Chain Management](/services/logistics-supply-chain/) services leverage blockchain technology to create autonomous supply chain operations with transparent and sovereign logistics networks free from centralized control.
+### Blockchain-Powered Supply Chain Solutions
+Our blockchain consulting services help organizations create autonomous supply chain operations with transparent and sovereign logistics networks free from centralized control.
 
 ## Why Blockchain Matters
 

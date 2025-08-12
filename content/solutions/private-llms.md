@@ -4,7 +4,7 @@ url: /solutions/private-llms/
 menu:
   main:
     parent: "solutions"
-    weight: 33
+    weight: 30
 ---
 
 # Private LLMs: Intelligent Liberation from AI Surveillance

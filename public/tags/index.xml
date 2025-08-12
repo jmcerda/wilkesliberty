@@ -2,276 +2,381 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wilkes &amp; Liberty</title>
-    <link>https://www.wilkesliberty.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 20:53:10 -0400</lastBuildDate>
-    <atom:link href="https://www.wilkesliberty.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 02:01:07 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Sovereignty</title>
+      <link>http://localhost:1313/tags/digital-sovereignty/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/digital-sovereignty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liberation Technology</title>
+      <link>http://localhost:1313/tags/liberation-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liberation-technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy Rights</title>
+      <link>http://localhost:1313/tags/privacy-rights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/privacy-rights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surveillance Resistance</title>
+      <link>http://localhost:1313/tags/surveillance-resistance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/surveillance-resistance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Optimization</title>
+      <link>http://localhost:1313/tags/ai-optimization/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ai-optimization/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Case Studies</title>
-      <link>https://www.wilkesliberty.com/tags/case-studies/</link>
+      <link>http://localhost:1313/tags/case-studies/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/case-studies/</guid>
+      <guid>http://localhost:1313/tags/case-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Case Study</title>
+      <link>http://localhost:1313/tags/case-study/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/case-study/</guid>
       <description></description>
     </item>
     <item>
       <title>Client Results</title>
-      <link>https://www.wilkesliberty.com/tags/client-results/</link>
+      <link>http://localhost:1313/tags/client-results/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/client-results/</guid>
+      <guid>http://localhost:1313/tags/client-results/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Sovereignty</title>
+      <link>http://localhost:1313/tags/data-sovereignty/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/data-sovereignty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Services</title>
+      <link>http://localhost:1313/tags/financial-services/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/financial-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regulatory Compliance</title>
+      <link>http://localhost:1313/tags/regulatory-compliance/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/regulatory-compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/tags/resources/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/tags/resources/</guid>
       <description></description>
     </item>
     <item>
       <title>Success Stories</title>
-      <link>https://www.wilkesliberty.com/tags/success-stories/</link>
+      <link>http://localhost:1313/tags/success-stories/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/success-stories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockchain</title>
-      <link>https://www.wilkesliberty.com/tags/blockchain/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blockchain Kit</title>
-      <link>https://www.wilkesliberty.com/tags/blockchain-kit/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/blockchain-kit/</guid>
+      <guid>http://localhost:1313/tags/success-stories/</guid>
       <description></description>
     </item>
     <item>
       <title>Capabilities</title>
-      <link>https://www.wilkesliberty.com/tags/capabilities/</link>
+      <link>http://localhost:1313/tags/capabilities/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/capabilities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consulting</title>
-      <link>https://www.wilkesliberty.com/tags/consulting/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/consulting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cryptocurrency</title>
-      <link>https://www.wilkesliberty.com/tags/cryptocurrency/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/cryptocurrency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Defi</title>
-      <link>https://www.wilkesliberty.com/tags/defi/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/defi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Sovereignty</title>
-      <link>https://www.wilkesliberty.com/tags/digital-sovereignty/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/digital-sovereignty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Financial Sovereignty</title>
-      <link>https://www.wilkesliberty.com/tags/financial-sovereignty/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/financial-sovereignty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ledger Platform</title>
-      <link>https://www.wilkesliberty.com/tags/ledger-platform/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/ledger-platform/</guid>
+      <guid>http://localhost:1313/tags/capabilities/</guid>
       <description></description>
     </item>
     <item>
       <title>Organizational Independence</title>
-      <link>https://www.wilkesliberty.com/tags/organizational-independence/</link>
+      <link>http://localhost:1313/tags/organizational-independence/</link>
       <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/organizational-independence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Platform</title>
-      <link>https://www.wilkesliberty.com/tags/platform/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/platform/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rapid Deployment</title>
-      <link>https://www.wilkesliberty.com/tags/rapid-deployment/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/rapid-deployment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xrp Ledger</title>
-      <link>https://www.wilkesliberty.com/tags/xrp-ledger/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/xrp-ledger/</guid>
+      <guid>http://localhost:1313/tags/organizational-independence/</guid>
       <description></description>
     </item>
     <item>
       <title>Authentication</title>
-      <link>https://www.wilkesliberty.com/tags/authentication/</link>
+      <link>http://localhost:1313/tags/authentication/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/authentication/</guid>
+      <guid>http://localhost:1313/tags/authentication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Cms</title>
-      <link>https://www.wilkesliberty.com/tags/cms/</link>
+      <link>http://localhost:1313/tags/cms/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/cms/</guid>
+      <guid>http://localhost:1313/tags/cms/</guid>
       <description></description>
     </item>
     <item>
       <title>Content Management</title>
-      <link>https://www.wilkesliberty.com/tags/content-management/</link>
+      <link>http://localhost:1313/tags/content-management/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/content-management/</guid>
+      <guid>http://localhost:1313/tags/content-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptocurrency</title>
+      <link>http://localhost:1313/tags/cryptocurrency/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>http://localhost:1313/tags/cryptocurrency/</guid>
       <description></description>
     </item>
     <item>
       <title>Decentralized Credentials</title>
-      <link>https://www.wilkesliberty.com/tags/decentralized-credentials/</link>
+      <link>http://localhost:1313/tags/decentralized-credentials/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/decentralized-credentials/</guid>
+      <guid>http://localhost:1313/tags/decentralized-credentials/</guid>
       <description></description>
     </item>
     <item>
       <title>Decentralized Finance</title>
-      <link>https://www.wilkesliberty.com/tags/decentralized-finance/</link>
+      <link>http://localhost:1313/tags/decentralized-finance/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/decentralized-finance/</guid>
+      <guid>http://localhost:1313/tags/decentralized-finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Defi</title>
+      <link>http://localhost:1313/tags/defi/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>http://localhost:1313/tags/defi/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Identity</title>
-      <link>https://www.wilkesliberty.com/tags/digital-identity/</link>
+      <link>http://localhost:1313/tags/digital-identity/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/digital-identity/</guid>
+      <guid>http://localhost:1313/tags/digital-identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Liberation</title>
-      <link>https://www.wilkesliberty.com/tags/digital-liberation/</link>
+      <link>http://localhost:1313/tags/digital-liberation/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/digital-liberation/</guid>
+      <guid>http://localhost:1313/tags/digital-liberation/</guid>
       <description></description>
     </item>
     <item>
       <title>Drupal</title>
-      <link>https://www.wilkesliberty.com/tags/drupal/</link>
+      <link>http://localhost:1313/tags/drupal/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/drupal/</guid>
+      <guid>http://localhost:1313/tags/drupal/</guid>
       <description></description>
     </item>
     <item>
       <title>Editorial Sovereignty</title>
-      <link>https://www.wilkesliberty.com/tags/editorial-sovereignty/</link>
+      <link>http://localhost:1313/tags/editorial-sovereignty/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/editorial-sovereignty/</guid>
+      <guid>http://localhost:1313/tags/editorial-sovereignty/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Source</title>
-      <link>https://www.wilkesliberty.com/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Payments</title>
-      <link>https://www.wilkesliberty.com/tags/payments/</link>
+      <link>http://localhost:1313/tags/payments/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/payments/</guid>
+      <guid>http://localhost:1313/tags/payments/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://www.wilkesliberty.com/tags/privacy/</link>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://www.wilkesliberty.com/tags/web-development/</link>
+      <link>http://localhost:1313/tags/web-development/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/web-development/</guid>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xrp Ledger</title>
+      <link>http://localhost:1313/tags/xrp-ledger/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>http://localhost:1313/tags/xrp-ledger/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero-Knowledge</title>
-      <link>https://www.wilkesliberty.com/tags/zero-knowledge/</link>
+      <link>http://localhost:1313/tags/zero-knowledge/</link>
       <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/zero-knowledge/</guid>
+      <guid>http://localhost:1313/tags/zero-knowledge/</guid>
       <description></description>
     </item>
     <item>
       <title>Autonomous Systems</title>
-      <link>https://www.wilkesliberty.com/tags/autonomous-systems/</link>
+      <link>http://localhost:1313/tags/autonomous-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/autonomous-systems/</guid>
+      <guid>http://localhost:1313/tags/autonomous-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain Kit</title>
+      <link>http://localhost:1313/tags/blockchain-kit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blockchain-kit/</guid>
       <description></description>
     </item>
     <item>
       <title>Cms Implementation</title>
-      <link>https://www.wilkesliberty.com/tags/cms-implementation/</link>
+      <link>http://localhost:1313/tags/cms-implementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/cms-implementation/</guid>
+      <guid>http://localhost:1313/tags/cms-implementation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/tags/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/consulting/</guid>
       <description></description>
     </item>
     <item>
       <title>Decentralized Identity</title>
-      <link>https://www.wilkesliberty.com/tags/decentralized-identity/</link>
+      <link>http://localhost:1313/tags/decentralized-identity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/decentralized-identity/</guid>
+      <guid>http://localhost:1313/tags/decentralized-identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Transformation</title>
+      <link>http://localhost:1313/tags/digital-transformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Sovereignty</title>
+      <link>http://localhost:1313/tags/financial-sovereignty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/financial-sovereignty/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity Management</title>
-      <link>https://www.wilkesliberty.com/tags/identity-management/</link>
+      <link>http://localhost:1313/tags/identity-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/identity-management/</guid>
+      <guid>http://localhost:1313/tags/identity-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure</title>
-      <link>https://www.wilkesliberty.com/tags/infrastructure/</link>
+      <link>http://localhost:1313/tags/infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/infrastructure/</guid>
+      <guid>http://localhost:1313/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ledger Platform</title>
+      <link>http://localhost:1313/tags/ledger-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ledger-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legacy Systems</title>
+      <link>http://localhost:1313/tags/legacy-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/legacy-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modernization</title>
+      <link>http://localhost:1313/tags/modernization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/modernization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform</title>
+      <link>http://localhost:1313/tags/platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/platform/</guid>
       <description></description>
     </item>
     <item>
       <title>Private Cloud</title>
-      <link>https://www.wilkesliberty.com/tags/private-cloud/</link>
+      <link>http://localhost:1313/tags/private-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/private-cloud/</guid>
+      <guid>http://localhost:1313/tags/private-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rapid Deployment</title>
+      <link>http://localhost:1313/tags/rapid-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rapid-deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Secure Networking</title>
-      <link>https://www.wilkesliberty.com/tags/secure-networking/</link>
+      <link>http://localhost:1313/tags/secure-networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/secure-networking/</guid>
+      <guid>http://localhost:1313/tags/secure-networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Sovereign Hosting</title>
-      <link>https://www.wilkesliberty.com/tags/sovereign-hosting/</link>
+      <link>http://localhost:1313/tags/sovereign-hosting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/tags/sovereign-hosting/</guid>
+      <guid>http://localhost:1313/tags/sovereign-hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sovereign Technology</title>
+      <link>http://localhost:1313/tags/sovereign-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sovereign-technology/</guid>
       <description></description>
     </item>
   </channel>

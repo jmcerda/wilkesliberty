@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Wilkes &amp; Liberty</title>
-    <link>https://www.wilkesliberty.com/technology/</link>
+    <link>http://localhost:1313/technology/</link>
     <description>Recent content in Technology on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.wilkesliberty.com/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 15:51:06 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Identity</title>
+      <link>http://localhost:1313/technology/digital-identity/</link>
+      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
+      <guid>http://localhost:1313/technology/digital-identity/</guid>
+      <description>Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.</description>
+    </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://www.wilkesliberty.com/technology/artificial-intelligence/</link>
+      <link>http://localhost:1313/technology/artificial-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/technology/artificial-intelligence/</guid>
-      <description>&lt;h1 id=&#34;sovereign-ai-that-serves-only-you&#34;&gt;Sovereign AI that serves only you.&lt;/h1&gt;&#xA;&lt;p&gt;Break free from corporate AI overlords. Like Wilkes&amp;rsquo; rebellion against tyranny, we forge AI systems that answer to no master but you—private, powerful, and completely under your control.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-ai-matters&#34;&gt;Why Our AI Matters?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Private by Design&lt;/strong&gt;: Your AI models trained on your data, staying local and secure.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corporate Independence&lt;/strong&gt;: No dependency on Big Tech AI services or their surveillance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sovereign Intelligence&lt;/strong&gt;: AI systems that enhance your capabilities without compromising your liberty.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Advantage&lt;/strong&gt;: Custom AI solutions tailored to your unique competitive needs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reclaim your intelligence sovereignty. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/technology/artificial-intelligence/</guid>
+      <description>&lt;h1 id=&#34;sovereign-ai-that-serves-only-you&#34;&gt;Sovereign AI that serves only you.&lt;/h1&gt;&#xA;&lt;p&gt;Break free from corporate AI overlords. Like Wilkes&amp;rsquo; rebellion against tyranny, we forge AI systems that answer to no master but you—private, powerful, and completely under your control.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-ai-matters&#34;&gt;Why Our AI Matters?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Private by Design&lt;/strong&gt;: Your AI models trained on your data, staying local and secure.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Corporate Independence&lt;/strong&gt;: No dependency on Big Tech AI services or their surveillance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sovereign Intelligence&lt;/strong&gt;: AI systems that enhance your capabilities without compromising your liberty.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Advantage&lt;/strong&gt;: Custom AI solutions tailored to your unique competitive needs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Reclaim your intelligence sovereignty. &lt;a href=&#34;http://localhost:1313/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

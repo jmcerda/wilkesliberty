@@ -4,7 +4,7 @@ url: /services/software-development/
 menu:
   main:
     parent: "services"
-    weight: 50
+    weight: 40
 ---
 
 # Bespoke software that embodies your vision.

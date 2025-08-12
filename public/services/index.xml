@@ -2,67 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Wilkes &amp; Liberty</title>
-    <link>https://www.wilkesliberty.com/services/</link>
+    <link>http://localhost:1313/services/</link>
     <description>Recent content in Services on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 20:53:09 -0400</lastBuildDate>
-    <atom:link href="https://www.wilkesliberty.com/services/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blockchain Consulting</title>
-      <link>https://www.wilkesliberty.com/services/blockchain-consulting/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/services/blockchain-consulting/</guid>
-      <description>Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.</description>
-    </item>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Specialist Support</title>
-      <link>https://www.wilkesliberty.com/services/ai-specialist-support/</link>
+      <link>http://localhost:1313/services/ai-specialist-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/ai-specialist-support/</guid>
+      <guid>http://localhost:1313/services/ai-specialist-support/</guid>
       <description>&lt;h1 id=&#34;ai-specialist-support-autonomous-intelligence-for-digital-liberation&#34;&gt;AI Specialist Support: Autonomous Intelligence for Digital Liberation&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; mastery of autonomous systems against tyrannical authorities, our AI specialists operate independently—delivering intelligent solutions while leaving no trace of their activities or your strategic requirements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sovereign-ai-operations&#34;&gt;Sovereign AI Operations&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ghost-network-ai&#34;&gt;Ghost Network AI&lt;/h3&gt;&#xA;&lt;p&gt;Traditional AI services create dependencies, data trails, and reporting structures that expose your strategic interests. Our AI specialists operate as digital ghosts—delivering intelligent automation while maintaining complete operational anonymity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Operations</title>
-      <link>https://www.wilkesliberty.com/services/cloud-operations/</link>
+      <link>http://localhost:1313/services/cloud-operations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/cloud-operations/</guid>
-      <description>&lt;h1 id=&#34;cloud-freedom-without-corporate-chains&#34;&gt;Cloud freedom without corporate chains.&lt;/h1&gt;&#xA;&lt;p&gt;Escape cloud vendor lock-in. Inspired by Wilkes&amp;rsquo; fight against monopolistic control, we orchestrate multi-cloud strategies that keep you sovereign, scalable, and free from Big Tech dependency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-cloud-operations&#34;&gt;Why Our Cloud Operations?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vendor Independence&lt;/strong&gt;: Multi-cloud strategies that prevent lock-in and maximize flexibility.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost Sovereignty&lt;/strong&gt;: Optimize across providers to slash costs while maintaining performance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Mobility&lt;/strong&gt;: Migrate workloads freely based on your business needs, not vendor restrictions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Excellence&lt;/strong&gt;: DevOps practices that embody true digital liberty and efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Break free from cloud tyranny. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Content Management Consulting</title>
-      <link>https://www.wilkesliberty.com/services/content-management-consulting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/content-management-consulting/</guid>
-      <description>Custom content management system implementation and consulting services for organizations seeking editorial sovereignty and platform independence.</description>
+      <guid>http://localhost:1313/services/cloud-operations/</guid>
+      <description>&lt;h1 id=&#34;cloud-freedom-without-corporate-chains&#34;&gt;Cloud freedom without corporate chains.&lt;/h1&gt;&#xA;&lt;p&gt;Escape cloud vendor lock-in. Inspired by Wilkes&amp;rsquo; fight against monopolistic control, we orchestrate multi-cloud strategies that keep you sovereign, scalable, and free from Big Tech dependency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-cloud-operations&#34;&gt;Why Our Cloud Operations?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vendor Independence&lt;/strong&gt;: Multi-cloud strategies that prevent lock-in and maximize flexibility.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost Sovereignty&lt;/strong&gt;: Optimize across providers to slash costs while maintaining performance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Mobility&lt;/strong&gt;: Migrate workloads freely based on your business needs, not vendor restrictions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Excellence&lt;/strong&gt;: DevOps practices that embody true digital liberty and efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Break free from cloud tyranny. &lt;a href=&#34;http://localhost:1313/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://www.wilkesliberty.com/services/cybersecurity/</link>
+      <link>http://localhost:1313/services/cybersecurity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/cybersecurity/</guid>
+      <guid>http://localhost:1313/services/cybersecurity/</guid>
       <description>&lt;h1 id=&#34;impenetrable-defenses-for-the-digital-battlefield&#34;&gt;Impenetrable Defenses for the Digital Battlefield&lt;/h1&gt;&#xA;&lt;p&gt;In the spirit of John Wilkes&amp;rsquo; fearless stand against tyranny, we forge digital fortresses that repel every threat. From state surveillance to corporate espionage, criminal enterprises to authoritarian overreach—your digital sovereignty remains uncompromised.&lt;/p&gt;&#xA;&lt;p&gt;Like the revolutionaries who declared independence from oppression, we declare independence from digital tyranny.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-revolutionary-approach&#34;&gt;Our Revolutionary Approach&lt;/h2&gt;&#xA;&lt;h3 id=&#34;zero-trust-architecture&#34;&gt;Zero-Trust Architecture&lt;/h3&gt;&#xA;&lt;p&gt;Verify everything, trust nothing. Just as Wilkes questioned authority at every turn, our systems challenge every access request. No entity—internal or external—gains passage without rigorous verification.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Digital Modernization</title>
-      <link>https://www.wilkesliberty.com/services/digital-modernization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/digital-modernization/</guid>
-      <description>&lt;h1 id=&#34;revolutionary-transformation-for-the-digital-age&#34;&gt;Revolutionary transformation for the digital age.&lt;/h1&gt;&#xA;&lt;p&gt;Shatter legacy constraints. Channeling Wilkes&amp;rsquo; revolutionary spirit, we modernize your digital infrastructure with cutting-edge solutions that liberate your organization from outdated systems and bureaucratic bottlenecks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-modernization&#34;&gt;Why Our Modernization?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Legacy Liberation&lt;/strong&gt;: Break free from outdated systems that constrain your potential.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Transformation&lt;/strong&gt;: Implement modern architectures that accelerate innovation and growth.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strategic Evolution&lt;/strong&gt;: Future-proof your technology stack with scalable, sovereign solutions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Operational Revolution&lt;/strong&gt;: Streamline processes and eliminate inefficiencies that hold you back.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Modernize with purpose and power. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Logistics &amp; Supply Chain Management</title>
-      <link>https://www.wilkesliberty.com/services/logistics-supply-chain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/logistics-supply-chain/</guid>
-      <description>&lt;h1 id=&#34;logistics--supply-chain-management-autonomous-operations-beyond-control&#34;&gt;Logistics &amp;amp; Supply Chain Management: Autonomous Operations Beyond Control&lt;/h1&gt;&#xA;&lt;p&gt;Like Wilkes&amp;rsquo; strategic coordination of colonial resistance networks, our logistics services create autonomous supply chains that operate independently of centralized control systems and surveillance networks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;supply-chain-liberation&#34;&gt;Supply Chain Liberation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-operations-management&#34;&gt;Sovereign Operations Management&lt;/h3&gt;&#xA;&lt;p&gt;Break free from logistics platforms that monitor, analyze, and control your supply chains. Our management services create truly independent operational networks that answer only to you.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-logistics-philosophy&#34;&gt;Revolutionary Logistics Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional supply chain management creates dependencies, data exposure, and points of control. Our approach builds resilient, private networks that strengthen with every transaction while revealing nothing.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Software Development</title>
-      <link>https://www.wilkesliberty.com/services/software-development/</link>
+      <link>http://localhost:1313/services/software-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/services/software-development/</guid>
-      <description>&lt;h1 id=&#34;bespoke-software-that-embodies-your-vision&#34;&gt;Bespoke software that embodies your vision.&lt;/h1&gt;&#xA;&lt;p&gt;Code your independence. Like Wilkes&amp;rsquo; principled stand against conformity, we craft custom software solutions that serve your unique mission—built to your specifications, owned entirely by you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-development&#34;&gt;Why Our Development?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Liberation&lt;/strong&gt;: Bespoke solutions tailored to your exact needs and competitive advantages.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ownership Sovereignty&lt;/strong&gt;: You own the code, the data, and the destiny of your software.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Excellence&lt;/strong&gt;: Rapid development cycles that adapt to your evolving requirements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privacy-First Engineering&lt;/strong&gt;: Software architecture that prioritizes your data sovereignty and security.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Build your digital independence. &lt;a href=&#34;https://www.wilkesliberty.com/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/software-development/</guid>
+      <description>&lt;h1 id=&#34;bespoke-software-that-embodies-your-vision&#34;&gt;Bespoke software that embodies your vision.&lt;/h1&gt;&#xA;&lt;p&gt;Code your independence. Like Wilkes&amp;rsquo; principled stand against conformity, we craft custom software solutions that serve your unique mission—built to your specifications, owned entirely by you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-our-development&#34;&gt;Why Our Development?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Liberation&lt;/strong&gt;: Bespoke solutions tailored to your exact needs and competitive advantages.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ownership Sovereignty&lt;/strong&gt;: You own the code, the data, and the destiny of your software.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agile Excellence&lt;/strong&gt;: Rapid development cycles that adapt to your evolving requirements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privacy-First Engineering&lt;/strong&gt;: Software architecture that prioritizes your data sovereignty and security.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Build your digital independence. &lt;a href=&#34;http://localhost:1313/&#34;&gt;Contact us&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

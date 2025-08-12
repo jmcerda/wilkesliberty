@@ -15,21 +15,21 @@ markup:
 
 menu:
   main:
-    - identifier: "technology"
-      name: "Technology"
-      url: "/technology/"
-      weight: 1
-    - identifier: "solutions"
-      name: "Solutions"
-      url: "/solutions/"
-      weight: 2
-    - identifier: "services"
-      name: "Services"
-      url: "/services/"
-      weight: 3
     - identifier: "capabilities"
       name: "Capabilities"
       url: "/capabilities/"
+      weight: 1
+    - identifier: "technology"
+      name: "Technology"
+      url: "/technology/"
+      weight: 2
+    - identifier: "solutions"
+      name: "Solutions"
+      url: "/solutions/"
+      weight: 3
+    - identifier: "services"
+      name: "Services"
+      url: "/services/"
       weight: 4
     - identifier: "industries"
       name: "Industries"

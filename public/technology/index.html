@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Technology</title>
   
-<link rel="stylesheet" href="/ananke/css/main.min.8d048772ae72ab11245a0e296d1f2a36d3e3dd376c6c867394d6cc659c68fc37.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
 
 
 
@@ -191,6 +191,53 @@
   }
   
   .sub-submenu a:hover {
+    background: var(--primary);
+    color: var(--accent);
+  }
+  
+   
+  .has-sub-sub-submenu {
+    position: relative;
+  }
+  
+  .sub-sub-submenu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    min-width: 160px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 102;
+  }
+  
+  .has-sub-sub-submenu:hover .sub-sub-submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+  
+  .sub-sub-submenu li {
+    margin: 0;
+  }
+  
+  .sub-sub-submenu a {
+    display: block;
+    padding: 0.3rem 0.6rem;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.8rem;
+  }
+  
+  .sub-sub-submenu a:hover {
     background: var(--primary);
     color: var(--accent);
   }
@@ -410,6 +457,18 @@
       margin-left: 1rem;
     }
     
+    .sub-sub-submenu {
+      position: static;
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      box-shadow: none;
+      border: none;
+      background: transparent;
+      margin-top: 0.25rem;
+      margin-left: 2rem;
+    }
+    
     .footer-nav ul {
       flex-direction: column;
       gap: 0.5rem;
@@ -431,6 +490,13 @@
         <ul class="nav-menu">
           
             
+            <li class="nav-item">
+              <a href="/capabilities/">Capabilities</a>
+              
+            </li>
+            
+          
+            
             <li class="nav-item has-submenu">
               <a href="/technology/">Technology</a>
               
@@ -446,7 +512,10 @@
                       
                         <ul class="sub-submenu">
                           
-                            <li><a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a></li>
+                            <li class="">
+                              <a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a>
+                              
+                            </li>
                           
                         </ul>
                       
@@ -457,9 +526,17 @@
                       
                         <ul class="sub-submenu">
                           
-                            <li><a href="/technology/content-management/drupal-cms/">Drupal CMS</a></li>
+                            <li class="">
+                              <a href="/technology/content-management/drupal-cms/">Drupal CMS</a>
+                              
+                            </li>
                           
                         </ul>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/technology/digital-identity/">Digital Identity</a>
                       
                     </li>
                   
@@ -475,22 +552,7 @@
                 <ul class="submenu">
                   
                     <li class="">
-                      <a href="/solutions/blockchain-ledger-kit/">Blockchain Ledger Kit</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/solutions/digital-infrastructure-platform/">Digital Infrastructure Platform</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/solutions/digital-identity-platforms/">Digital Identity Platforms</a>
+                      <a href="/solutions/digital-modernization/">Digital Modernization</a>
                       
                     </li>
                   
@@ -505,12 +567,17 @@
                     </li>
                   
                     <li class="">
-                      <a href="/solutions/digital-identity-management-product/">Digital Identity Management Product</a>
+                      <a href="/solutions/zero-trust/">Zero Trust</a>
                       
                     </li>
                   
                     <li class="">
-                      <a href="/solutions/zero-trust/">Zero Trust</a>
+                      <a href="/solutions/finance-ai-optimization/">Financial AI Optimization</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/solutions/health-digital-id/">Health Digital Id</a>
                       
                     </li>
                   
@@ -531,22 +598,7 @@
                     </li>
                   
                     <li class="">
-                      <a href="/services/content-management-consulting/">Content Management Consulting</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/services/blockchain-consulting/">Blockchain Consulting</a>
-                      
-                    </li>
-                  
-                    <li class="">
                       <a href="/services/cloud-operations/">Cloud Operations</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/services/logistics-supply-chain/">Logistics &amp; Supply Chain Management</a>
                       
                     </li>
                   
@@ -556,23 +608,11 @@
                     </li>
                   
                     <li class="">
-                      <a href="/services/digital-modernization/">Digital Modernization</a>
-                      
-                    </li>
-                  
-                    <li class="">
                       <a href="/services/software-development/">Software Development</a>
                       
                     </li>
                   
                 </ul>
-              
-            </li>
-            
-          
-            
-            <li class="nav-item">
-              <a href="/capabilities/">Capabilities</a>
               
             </li>
             
@@ -630,16 +670,6 @@
                     </li>
                   
                     <li class="">
-                      <a href="/about/resources/case-studies/finance-ai-optimization/">Finance Ai Optimization</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/about/resources/case-studies/health-digital-id/">Health Digital Id</a>
-                      
-                    </li>
-                  
-                    <li class="">
                       <a href="/about/contract-vehicles/">Contract Vehicles</a>
                       
                     </li>
@@ -655,17 +685,7 @@
                     </li>
                   
                     <li class="">
-                      <a href="/about/press-releases/">Press Releases</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/about/resources/">Resources</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/about/resources/case-studies/">Case Studies</a>
+                      <a href="/about/news/">News</a>
                       
                     </li>
                   
@@ -721,6 +741,13 @@
                 </article>
                 
                 <article class="page-card">
+                    <h3><a href="/technology/digital-identity/">Digital Identity</a></h3>
+                    
+                    <p>Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.</p>
+                    
+                </article>
+                
+                <article class="page-card">
                     <h3><a href="/technology/artificial-intelligence/">Artificial Intelligence</a></h3>
                     
                     <p><h1 id="sovereign-ai-that-serves-only-you">Sovereign AI that serves only you.</h1>
@@ -748,13 +775,13 @@
     <nav class="footer-nav">
       <ul>
         
+        <li><a href="/capabilities/">Capabilities</a></li>
+        
         <li><a href="/technology/">Technology</a></li>
         
         <li><a href="/solutions/">Solutions</a></li>
         
         <li><a href="/services/">Services</a></li>
-        
-        <li><a href="/capabilities/">Capabilities</a></li>
         
         <li><a href="/industries/">Industries</a></li>
         

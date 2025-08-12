@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Tags</title>
   
-<link rel="stylesheet" href="/ananke/css/main.min.8d048772ae72ab11245a0e296d1f2a36d3e3dd376c6c867394d6cc659c68fc37.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
 
 
 
@@ -191,6 +191,53 @@
   }
   
   .sub-submenu a:hover {
+    background: var(--primary);
+    color: var(--accent);
+  }
+  
+   
+  .has-sub-sub-submenu {
+    position: relative;
+  }
+  
+  .sub-sub-submenu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    min-width: 160px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 102;
+  }
+  
+  .has-sub-sub-submenu:hover .sub-sub-submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+  
+  .sub-sub-submenu li {
+    margin: 0;
+  }
+  
+  .sub-sub-submenu a {
+    display: block;
+    padding: 0.3rem 0.6rem;
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.8rem;
+  }
+  
+  .sub-sub-submenu a:hover {
     background: var(--primary);
     color: var(--accent);
   }
@@ -410,6 +457,18 @@
       margin-left: 1rem;
     }
     
+    .sub-sub-submenu {
+      position: static;
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      box-shadow: none;
+      border: none;
+      background: transparent;
+      margin-top: 0.25rem;
+      margin-left: 2rem;
+    }
+    
     .footer-nav ul {
       flex-direction: column;
       gap: 0.5rem;
@@ -431,6 +490,13 @@
         <ul class="nav-menu">
           
             
+            <li class="nav-item">
+              <a href="/capabilities/">Capabilities</a>
+              
+            </li>
+            
+          
+            
             <li class="nav-item has-submenu">
               <a href="/technology/">Technology</a>
               
@@ -446,7 +512,10 @@
                       
                         <ul class="sub-submenu">
                           
-                            <li><a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a></li>
+                            <li class="">
+                              <a href="/technology/blockchain/xrp-ledger/">XRP Ledger</a>
+                              
+                            </li>
                           
                         </ul>
                       
@@ -457,9 +526,17 @@
                       
                         <ul class="sub-submenu">
                           
-                            <li><a href="/technology/content-management/drupal-cms/">Drupal CMS</a></li>
+                            <li class="">
+                              <a href="/technology/content-management/drupal-cms/">Drupal CMS</a>
+                              
+                            </li>
                           
                         </ul>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/technology/digital-identity/">Digital Identity</a>
                       
                     </li>
                   
@@ -475,22 +552,7 @@
                 <ul class="submenu">
                   
                     <li class="">
-                      <a href="/solutions/blockchain-ledger-kit/">Blockchain Ledger Kit</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/solutions/ai-for-financial-optimization/">AI for Financial Optimization</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/solutions/digital-infrastructure-platform/">Digital Infrastructure Platform</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/solutions/digital-identity-platforms/">Digital Identity Platforms</a>
+                      <a href="/solutions/digital-modernization/">Digital Modernization</a>
                       
                     </li>
                   
@@ -505,12 +567,17 @@
                     </li>
                   
                     <li class="">
-                      <a href="/solutions/digital-identity-management-product/">Digital Identity Management Product</a>
+                      <a href="/solutions/zero-trust/">Zero Trust</a>
                       
                     </li>
                   
                     <li class="">
-                      <a href="/solutions/zero-trust/">Zero Trust</a>
+                      <a href="/solutions/finance-ai-optimization/">Financial AI Optimization</a>
+                      
+                    </li>
+                  
+                    <li class="">
+                      <a href="/solutions/health-digital-id/">Health Digital Id</a>
                       
                     </li>
                   
@@ -531,22 +598,7 @@
                     </li>
                   
                     <li class="">
-                      <a href="/services/content-management-consulting/">Content Management Consulting</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/services/blockchain-consulting/">Blockchain Consulting</a>
-                      
-                    </li>
-                  
-                    <li class="">
                       <a href="/services/cloud-operations/">Cloud Operations</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/services/logistics-supply-chain/">Logistics &amp; Supply Chain Management</a>
                       
                     </li>
                   
@@ -556,23 +608,11 @@
                     </li>
                   
                     <li class="">
-                      <a href="/services/digital-modernization/">Digital Modernization</a>
-                      
-                    </li>
-                  
-                    <li class="">
                       <a href="/services/software-development/">Software Development</a>
                       
                     </li>
                   
                 </ul>
-              
-            </li>
-            
-          
-            
-            <li class="nav-item">
-              <a href="/capabilities/">Capabilities</a>
               
             </li>
             
@@ -630,16 +670,6 @@
                     </li>
                   
                     <li class="">
-                      <a href="/about/resources/case-studies/finance-ai-optimization/">Finance Ai Optimization</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/about/resources/case-studies/health-digital-id/">Health Digital Id</a>
-                      
-                    </li>
-                  
-                    <li class="">
                       <a href="/about/contract-vehicles/">Contract Vehicles</a>
                       
                     </li>
@@ -655,17 +685,7 @@
                     </li>
                   
                     <li class="">
-                      <a href="/about/press-releases/">Press Releases</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/about/resources/">Resources</a>
-                      
-                    </li>
-                  
-                    <li class="">
-                      <a href="/about/resources/case-studies/">Case Studies</a>
+                      <a href="/about/news/">News</a>
                       
                     </li>
                   
@@ -691,116 +711,139 @@
     <section class="ph4">
       
         <h2 class="f1">
-          <a href="/tags/case-studies/" class="link blue hover-black">
-            Tag: Case Studies
+          <a href="/tags/digital-sovereignty/" class="link blue hover-black">
+            Tag: Digital Sovereignty
           </a>
         </h2>
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Case Studies</span>
+    <span class="f6 db">Capabilities</span>
     <h1 class="f3 near-black">
-      <a href="/about/resources/case-studies/" class="link black dim">
-        Case Studies
+      <a href="/capabilities/" class="link black dim">
+        Capabilities
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Digital liberation success stories demonstrating sovereignty-focused technology implementations and organizational independence achievements.
+      Core organizational capabilities that enable digital sovereignty and independence through principled technology implementation.
     </div>
-    <a href="/about/resources/case-studies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/capabilities/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">About</span>
+    <h1 class="f3 near-black">
+      <a href="/about/news/" class="link black dim">
+        News
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Latest news, updates, and developments in digital sovereignty, privacy rights, and liberation technology from Wilkes &amp; Liberty.
+    </div>
+    <a href="/about/news/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
         
       
         <h2 class="f1">
-          <a href="/tags/client-results/" class="link blue hover-black">
-            Tag: Client Results
+          <a href="/tags/liberation-technology/" class="link blue hover-black">
+            Tag: Liberation Technology
           </a>
         </h2>
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Case Studies</span>
+    <span class="f6 db">About</span>
     <h1 class="f3 near-black">
-      <a href="/about/resources/case-studies/" class="link black dim">
-        Case Studies
+      <a href="/about/news/" class="link black dim">
+        News
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Digital liberation success stories demonstrating sovereignty-focused technology implementations and organizational independence achievements.
+      Latest news, updates, and developments in digital sovereignty, privacy rights, and liberation technology from Wilkes &amp; Liberty.
     </div>
-    <a href="/about/resources/case-studies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/about/news/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
         
       
         <h2 class="f1">
-          <a href="/tags/success-stories/" class="link blue hover-black">
-            Tag: Success Stories
+          <a href="/tags/news/" class="link blue hover-black">
+            Tag: News
           </a>
         </h2>
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Case Studies</span>
+    <span class="f6 db">About</span>
     <h1 class="f3 near-black">
-      <a href="/about/resources/case-studies/" class="link black dim">
-        Case Studies
+      <a href="/about/news/" class="link black dim">
+        News
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Digital liberation success stories demonstrating sovereignty-focused technology implementations and organizational independence achievements.
+      Latest news, updates, and developments in digital sovereignty, privacy rights, and liberation technology from Wilkes &amp; Liberty.
     </div>
-    <a href="/about/resources/case-studies/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/about/news/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
         
       
         <h2 class="f1">
-          <a href="/tags/blockchain/" class="link blue hover-black">
-            Tag: Blockchain
+          <a href="/tags/privacy-rights/" class="link blue hover-black">
+            Tag: Privacy Rights
           </a>
         </h2>
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Blockchain</span>
+    <span class="f6 db">About</span>
     <h1 class="f3 near-black">
-      <a href="/technology/blockchain/xrp-ledger/" class="link black dim">
-        XRP Ledger
+      <a href="/about/news/" class="link black dim">
+        News
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
+      Latest news, updates, and developments in digital sovereignty, privacy rights, and liberation technology from Wilkes &amp; Liberty.
     </div>
-    <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/blockchain-consulting/" class="link black dim">
-        Blockchain Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.
-    </div>
-    <a href="/services/blockchain-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/about/news/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
         
       
         <h2 class="f1">
-          <a href="/tags/blockchain-kit/" class="link blue hover-black">
-            Tag: Blockchain Kit
+          <a href="/tags/surveillance-resistance/" class="link blue hover-black">
+            Tag: Surveillance Resistance
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">About</span>
+    <h1 class="f3 near-black">
+      <a href="/about/news/" class="link black dim">
+        News
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Latest news, updates, and developments in digital sovereignty, privacy rights, and liberation technology from Wilkes &amp; Liberty.
+    </div>
+    <a href="/about/news/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/ai-optimization/" class="link blue hover-black">
+            Tag: AI Optimization
           </a>
         </h2>
         
@@ -808,14 +851,106 @@
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Solutions</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/blockchain-ledger-kit/" class="link black dim">
-        Blockchain Ledger Kit
+      <a href="/solutions/finance-ai-optimization/" class="link black dim">
+        Financial AI Optimization
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.
+      Case study demonstrating AI-powered financial optimization while maintaining complete data sovereignty and regulatory compliance.
     </div>
-    <a href="/solutions/blockchain-ledger-kit/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/solutions/finance-ai-optimization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/case-study/" class="link blue hover-black">
+            Tag: Case Study
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Solutions</span>
+    <h1 class="f3 near-black">
+      <a href="/solutions/finance-ai-optimization/" class="link black dim">
+        Financial AI Optimization
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Case study demonstrating AI-powered financial optimization while maintaining complete data sovereignty and regulatory compliance.
+    </div>
+    <a href="/solutions/finance-ai-optimization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/data-sovereignty/" class="link blue hover-black">
+            Tag: Data Sovereignty
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Solutions</span>
+    <h1 class="f3 near-black">
+      <a href="/solutions/finance-ai-optimization/" class="link black dim">
+        Financial AI Optimization
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Case study demonstrating AI-powered financial optimization while maintaining complete data sovereignty and regulatory compliance.
+    </div>
+    <a href="/solutions/finance-ai-optimization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/financial-services/" class="link blue hover-black">
+            Tag: Financial Services
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Solutions</span>
+    <h1 class="f3 near-black">
+      <a href="/solutions/finance-ai-optimization/" class="link black dim">
+        Financial AI Optimization
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Case study demonstrating AI-powered financial optimization while maintaining complete data sovereignty and regulatory compliance.
+    </div>
+    <a href="/solutions/finance-ai-optimization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/regulatory-compliance/" class="link blue hover-black">
+            Tag: Regulatory Compliance
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Solutions</span>
+    <h1 class="f3 near-black">
+      <a href="/solutions/finance-ai-optimization/" class="link black dim">
+        Financial AI Optimization
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Case study demonstrating AI-powered financial optimization while maintaining complete data sovereignty and regulatory compliance.
+    </div>
+    <a href="/solutions/finance-ai-optimization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -845,224 +980,6 @@
         
       
         <h2 class="f1">
-          <a href="/tags/consulting/" class="link blue hover-black">
-            Tag: Consulting
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/blockchain-consulting/" class="link black dim">
-        Blockchain Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.
-    </div>
-    <a href="/services/blockchain-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/content-management-consulting/" class="link black dim">
-        Content Management Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Custom content management system implementation and consulting services for organizations seeking editorial sovereignty and platform independence.
-    </div>
-    <a href="/services/content-management-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/cryptocurrency/" class="link blue hover-black">
-            Tag: Cryptocurrency
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Blockchain</span>
-    <h1 class="f3 near-black">
-      <a href="/technology/blockchain/xrp-ledger/" class="link black dim">
-        XRP Ledger
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
-    </div>
-    <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/blockchain-consulting/" class="link black dim">
-        Blockchain Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.
-    </div>
-    <a href="/services/blockchain-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/defi/" class="link blue hover-black">
-            Tag: Defi
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Blockchain</span>
-    <h1 class="f3 near-black">
-      <a href="/technology/blockchain/xrp-ledger/" class="link black dim">
-        XRP Ledger
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
-    </div>
-    <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/blockchain-consulting/" class="link black dim">
-        Blockchain Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.
-    </div>
-    <a href="/services/blockchain-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/digital-sovereignty/" class="link blue hover-black">
-            Tag: Digital Sovereignty
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Capabilities</span>
-    <h1 class="f3 near-black">
-      <a href="/capabilities/" class="link black dim">
-        Capabilities
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Core organizational capabilities that enable digital sovereignty and independence through principled technology implementation.
-    </div>
-    <a href="/capabilities/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/content-management-consulting/" class="link black dim">
-        Content Management Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Custom content management system implementation and consulting services for organizations seeking editorial sovereignty and platform independence.
-    </div>
-    <a href="/services/content-management-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/financial-sovereignty/" class="link blue hover-black">
-            Tag: Financial Sovereignty
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/blockchain-consulting/" class="link black dim">
-        Blockchain Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.
-    </div>
-    <a href="/services/blockchain-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/blockchain-ledger-kit/" class="link black dim">
-        Blockchain Ledger Kit
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.
-    </div>
-    <a href="/solutions/blockchain-ledger-kit/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/ledger-platform/" class="link blue hover-black">
-            Tag: Ledger Platform
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/blockchain-ledger-kit/" class="link black dim">
-        Blockchain Ledger Kit
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.
-    </div>
-    <a href="/solutions/blockchain-ledger-kit/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
           <a href="/tags/organizational-independence/" class="link blue hover-black">
             Tag: Organizational Independence
           </a>
@@ -1086,86 +1003,31 @@
         
       
         <h2 class="f1">
-          <a href="/tags/platform/" class="link blue hover-black">
-            Tag: Platform
+          <a href="/tags/authentication/" class="link blue hover-black">
+            Tag: Authentication
           </a>
         </h2>
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
+    <span class="f6 db">Technology</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/blockchain-ledger-kit/" class="link black dim">
-        Blockchain Ledger Kit
+      <a href="/technology/digital-identity/" class="link black dim">
+        Digital Identity
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.
+      Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.
     </div>
-    <a href="/solutions/blockchain-ledger-kit/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-management-product/" class="link black dim">
-        Digital Identity Management Product
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Ready-to-deploy digital identity management product offering sovereign control, decentralized authentication, and privacy-first identity verification.
-    </div>
-    <a href="/solutions/digital-identity-management-product/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-infrastructure-platform/" class="link black dim">
-        Digital Infrastructure Platform
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.
-    </div>
-    <a href="/solutions/digital-infrastructure-platform/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/technology/digital-identity/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
         
       
         <h2 class="f1">
-          <a href="/tags/rapid-deployment/" class="link blue hover-black">
-            Tag: Rapid Deployment
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/blockchain-ledger-kit/" class="link black dim">
-        Blockchain Ledger Kit
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.
-    </div>
-    <a href="/solutions/blockchain-ledger-kit/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/xrp-ledger/" class="link blue hover-black">
-            Tag: Xrp Ledger
+          <a href="/tags/blockchain/" class="link blue hover-black">
+            Tag: Blockchain
           </a>
         </h2>
         
@@ -1181,77 +1043,6 @@
       Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
     </div>
     <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/blockchain-consulting/" class="link black dim">
-        Blockchain Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Strategic blockchain consulting and implementation services for organizations seeking financial sovereignty and decentralized independence.
-    </div>
-    <a href="/services/blockchain-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/blockchain-ledger-kit/" class="link black dim">
-        Blockchain Ledger Kit
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.
-    </div>
-    <a href="/solutions/blockchain-ledger-kit/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-      
-        <h2 class="f1">
-          <a href="/tags/authentication/" class="link blue hover-black">
-            Tag: Authentication
-          </a>
-        </h2>
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-platforms/" class="link black dim">
-        Digital Identity Platforms
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.
-    </div>
-    <a href="/solutions/digital-identity-platforms/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-management-product/" class="link black dim">
-        Digital Identity Management Product
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Ready-to-deploy digital identity management product offering sovereign control, decentralized authentication, and privacy-first identity verification.
-    </div>
-    <a href="/solutions/digital-identity-management-product/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1334,18 +1125,25 @@
 </div>
 
         
+      
+        <h2 class="f1">
+          <a href="/tags/cryptocurrency/" class="link blue hover-black">
+            Tag: Cryptocurrency
+          </a>
+        </h2>
+        
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
+    <span class="f6 db">Blockchain</span>
     <h1 class="f3 near-black">
-      <a href="/services/content-management-consulting/" class="link black dim">
-        Content Management Consulting
+      <a href="/technology/blockchain/xrp-ledger/" class="link black dim">
+        XRP Ledger
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Custom content management system implementation and consulting services for organizations seeking editorial sovereignty and platform independence.
+      Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
     </div>
-    <a href="/services/content-management-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1359,16 +1157,16 @@
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
+    <span class="f6 db">Technology</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-platforms/" class="link black dim">
-        Digital Identity Platforms
+      <a href="/technology/digital-identity/" class="link black dim">
+        Digital Identity
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.
+      Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.
     </div>
-    <a href="/solutions/digital-identity-platforms/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/technology/digital-identity/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1398,6 +1196,29 @@
         
       
         <h2 class="f1">
+          <a href="/tags/defi/" class="link blue hover-black">
+            Tag: Defi
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Blockchain</span>
+    <h1 class="f3 near-black">
+      <a href="/technology/blockchain/xrp-ledger/" class="link black dim">
+        XRP Ledger
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
+    </div>
+    <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
           <a href="/tags/digital-identity/" class="link blue hover-black">
             Tag: Digital Identity
           </a>
@@ -1405,16 +1226,16 @@
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
+    <span class="f6 db">Technology</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-platforms/" class="link black dim">
-        Digital Identity Platforms
+      <a href="/technology/digital-identity/" class="link black dim">
+        Digital Identity
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.
+      Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.
     </div>
-    <a href="/solutions/digital-identity-platforms/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/technology/digital-identity/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1461,22 +1282,6 @@
       Open-source content management system that enables digital sovereignty with complete control over content, data, and platform architecture.
     </div>
     <a href="/technology/content-management/drupal-cms/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/content-management-consulting/" class="link black dim">
-        Content Management Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Custom content management system implementation and consulting services for organizations seeking editorial sovereignty and platform independence.
-    </div>
-    <a href="/services/content-management-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1559,32 +1364,16 @@
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
+    <span class="f6 db">Technology</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-platforms/" class="link black dim">
-        Digital Identity Platforms
+      <a href="/technology/digital-identity/" class="link black dim">
+        Digital Identity
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.
+      Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.
     </div>
-    <a href="/solutions/digital-identity-platforms/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-management-product/" class="link black dim">
-        Digital Identity Management Product
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Ready-to-deploy digital identity management product offering sovereign control, decentralized authentication, and privacy-first identity verification.
-    </div>
-    <a href="/solutions/digital-identity-management-product/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/technology/digital-identity/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1614,6 +1403,29 @@
         
       
         <h2 class="f1">
+          <a href="/tags/xrp-ledger/" class="link blue hover-black">
+            Tag: Xrp Ledger
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Blockchain</span>
+    <h1 class="f3 near-black">
+      <a href="/technology/blockchain/xrp-ledger/" class="link black dim">
+        XRP Ledger
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Decentralized payment and settlement blockchain technology offering fast, low-cost transactions with environmental efficiency and built-in sovereignty features.
+    </div>
+    <a href="/technology/blockchain/xrp-ledger/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
           <a href="/tags/zero-knowledge/" class="link blue hover-black">
             Tag: Zero-Knowledge
           </a>
@@ -1621,16 +1433,16 @@
         
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
+    <span class="f6 db">Technology</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-platforms/" class="link black dim">
-        Digital Identity Platforms
+      <a href="/technology/digital-identity/" class="link black dim">
+        Digital Identity
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.
+      Self-sovereign identity technology that puts individuals and organizations in complete control of their digital credentials and authentication.
     </div>
-    <a href="/solutions/digital-identity-platforms/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/technology/digital-identity/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -1642,21 +1454,26 @@
           </a>
         </h2>
         
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-infrastructure-platform/" class="link black dim">
-        Digital Infrastructure Platform
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.
-    </div>
-    <a href="/solutions/digital-infrastructure-platform/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
+      
+        <h2 class="f1">
+          <a href="/tags/blockchain-kit/" class="link blue hover-black">
+            Tag: Blockchain Kit
+          </a>
+        </h2>
+        
+      
+        <h2 class="f1">
+          <a href="/tags/case-studies/" class="link blue hover-black">
+            Tag: Case Studies
+          </a>
+        </h2>
+        
+      
+        <h2 class="f1">
+          <a href="/tags/client-results/" class="link blue hover-black">
+            Tag: Client Results
+          </a>
+        </h2>
         
       
         <h2 class="f1">
@@ -1665,21 +1482,12 @@
           </a>
         </h2>
         
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Services</span>
-    <h1 class="f3 near-black">
-      <a href="/services/content-management-consulting/" class="link black dim">
-        Content Management Consulting
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Custom content management system implementation and consulting services for organizations seeking editorial sovereignty and platform independence.
-    </div>
-    <a href="/services/content-management-consulting/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
+      
+        <h2 class="f1">
+          <a href="/tags/consulting/" class="link blue hover-black">
+            Tag: Consulting
+          </a>
+        </h2>
         
       
         <h2 class="f1">
@@ -1688,26 +1496,17 @@
           </a>
         </h2>
         
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-management-product/" class="link black dim">
-        Digital Identity Management Product
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Ready-to-deploy digital identity management product offering sovereign control, decentralized authentication, and privacy-first identity verification.
-    </div>
-    <a href="/solutions/digital-identity-management-product/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
+      
+        <h2 class="f1">
+          <a href="/tags/development/" class="link blue hover-black">
+            Tag: Development
+          </a>
+        </h2>
         
       
         <h2 class="f1">
-          <a href="/tags/identity-management/" class="link blue hover-black">
-            Tag: Identity Management
+          <a href="/tags/digital-transformation/" class="link blue hover-black">
+            Tag: Digital Transformation
           </a>
         </h2>
         
@@ -1715,17 +1514,31 @@
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Solutions</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-identity-management-product/" class="link black dim">
-        Digital Identity Management Product
+      <a href="/solutions/digital-modernization/" class="link black dim">
+        Digital Modernization
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Ready-to-deploy digital identity management product offering sovereign control, decentralized authentication, and privacy-first identity verification.
+      Comprehensive digital modernization solutions that liberate organizations from legacy constraints and bureaucratic bottlenecks.
     </div>
-    <a href="/solutions/digital-identity-management-product/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/solutions/digital-modernization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
+        
+      
+        <h2 class="f1">
+          <a href="/tags/financial-sovereignty/" class="link blue hover-black">
+            Tag: Financial Sovereignty
+          </a>
+        </h2>
+        
+      
+        <h2 class="f1">
+          <a href="/tags/identity-management/" class="link blue hover-black">
+            Tag: Identity Management
+          </a>
+        </h2>
         
       
         <h2 class="f1">
@@ -1738,17 +1551,77 @@
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Solutions</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-infrastructure-platform/" class="link black dim">
-        Digital Infrastructure Platform
+      <a href="/solutions/digital-modernization/" class="link black dim">
+        Digital Modernization
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.
+      Comprehensive digital modernization solutions that liberate organizations from legacy constraints and bureaucratic bottlenecks.
     </div>
-    <a href="/solutions/digital-infrastructure-platform/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/solutions/digital-modernization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
+        
+      
+        <h2 class="f1">
+          <a href="/tags/ledger-platform/" class="link blue hover-black">
+            Tag: Ledger Platform
+          </a>
+        </h2>
+        
+      
+        <h2 class="f1">
+          <a href="/tags/legacy-systems/" class="link blue hover-black">
+            Tag: Legacy Systems
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Solutions</span>
+    <h1 class="f3 near-black">
+      <a href="/solutions/digital-modernization/" class="link black dim">
+        Digital Modernization
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Comprehensive digital modernization solutions that liberate organizations from legacy constraints and bureaucratic bottlenecks.
+    </div>
+    <a href="/solutions/digital-modernization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/modernization/" class="link blue hover-black">
+            Tag: Modernization
+          </a>
+        </h2>
+        
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Solutions</span>
+    <h1 class="f3 near-black">
+      <a href="/solutions/digital-modernization/" class="link black dim">
+        Digital Modernization
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Comprehensive digital modernization solutions that liberate organizations from legacy constraints and bureaucratic bottlenecks.
+    </div>
+    <a href="/solutions/digital-modernization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        
+      
+        <h2 class="f1">
+          <a href="/tags/platform/" class="link blue hover-black">
+            Tag: Platform
+          </a>
+        </h2>
         
       
         <h2 class="f1">
@@ -1757,21 +1630,19 @@
           </a>
         </h2>
         
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-infrastructure-platform/" class="link black dim">
-        Digital Infrastructure Platform
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.
-    </div>
-    <a href="/solutions/digital-infrastructure-platform/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
+      
+        <h2 class="f1">
+          <a href="/tags/rapid-deployment/" class="link blue hover-black">
+            Tag: Rapid Deployment
+          </a>
+        </h2>
+        
+      
+        <h2 class="f1">
+          <a href="/tags/resources/" class="link blue hover-black">
+            Tag: Resources
+          </a>
+        </h2>
         
       
         <h2 class="f1">
@@ -1780,22 +1651,6 @@
           </a>
         </h2>
         
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Solutions</span>
-    <h1 class="f3 near-black">
-      <a href="/solutions/digital-infrastructure-platform/" class="link black dim">
-        Digital Infrastructure Platform
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.
-    </div>
-    <a href="/solutions/digital-infrastructure-platform/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        
       
         <h2 class="f1">
           <a href="/tags/sovereign-hosting/" class="link blue hover-black">
@@ -1803,21 +1658,35 @@
           </a>
         </h2>
         
+      
+        <h2 class="f1">
+          <a href="/tags/sovereign-technology/" class="link blue hover-black">
+            Tag: Sovereign Technology
+          </a>
+        </h2>
+        
           <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Solutions</span>
     <h1 class="f3 near-black">
-      <a href="/solutions/digital-infrastructure-platform/" class="link black dim">
-        Digital Infrastructure Platform
+      <a href="/solutions/digital-modernization/" class="link black dim">
+        Digital Modernization
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.
+      Comprehensive digital modernization solutions that liberate organizations from legacy constraints and bureaucratic bottlenecks.
     </div>
-    <a href="/solutions/digital-infrastructure-platform/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/solutions/digital-modernization/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
+        
+      
+        <h2 class="f1">
+          <a href="/tags/success-stories/" class="link blue hover-black">
+            Tag: Success Stories
+          </a>
+        </h2>
         
       
     </section>
@@ -1829,13 +1698,13 @@
     <nav class="footer-nav">
       <ul>
         
+        <li><a href="/capabilities/">Capabilities</a></li>
+        
         <li><a href="/technology/">Technology</a></li>
         
         <li><a href="/solutions/">Solutions</a></li>
         
         <li><a href="/services/">Services</a></li>
-        
-        <li><a href="/capabilities/">Capabilities</a></li>
         
         <li><a href="/industries/">Industries</a></li>
         

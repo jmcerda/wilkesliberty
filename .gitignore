@@ -37,6 +37,13 @@ node_modules/
 *.backup
 *.bak
 *.tmp
+content_backup*/
+
+# Script outputs and reports
+*_REPORT.md
+*_COMPLETE.md
+*AUDIT*.md
+*.sh
 
 # Go binaries (if using Hugo modules)
 *.exe

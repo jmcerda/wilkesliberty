@@ -4,7 +4,7 @@ url: /solutions/product-ai/
 menu:
   main:
     parent: "solutions"
-    weight: 34
+    weight: 40
 ---
 
 # Product AI: Intelligence Without Oppression

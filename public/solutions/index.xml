@@ -2,66 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solutions on Wilkes &amp; Liberty</title>
-    <link>https://www.wilkesliberty.com/solutions/</link>
+    <link>http://localhost:1313/solutions/</link>
     <description>Recent content in Solutions on Wilkes &amp; Liberty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 20:53:09 -0400</lastBuildDate>
-    <atom:link href="https://www.wilkesliberty.com/solutions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 20:53:10 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/solutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blockchain Ledger Kit</title>
-      <link>https://www.wilkesliberty.com/solutions/blockchain-ledger-kit/</link>
-      <pubDate>Mon, 11 Aug 2025 20:53:09 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/blockchain-ledger-kit/</guid>
-      <description>Pre-built blockchain ledger platform and development kit for rapid deployment of sovereign financial and data management systems.</description>
+      <title>Financial AI Optimization</title>
+      <link>http://localhost:1313/solutions/finance-ai-optimization/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/solutions/finance-ai-optimization/</guid>
+      <description>Case study demonstrating AI-powered financial optimization while maintaining complete data sovereignty and regulatory compliance.</description>
     </item>
     <item>
-      <title>Digital Identity Platforms</title>
-      <link>https://www.wilkesliberty.com/solutions/digital-identity-platforms/</link>
-      <pubDate>Mon, 11 Aug 2025 15:51:06 -0400</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/digital-identity-platforms/</guid>
-      <description>Self-sovereign identity platforms that put individuals and organizations in complete control of their digital credentials and authentication.</description>
+      <title>Health Digital Id</title>
+      <link>http://localhost:1313/solutions/health-digital-id/</link>
+      <pubDate>Mon, 11 Aug 2025 20:53:10 -0400</pubDate>
+      <guid>http://localhost:1313/solutions/health-digital-id/</guid>
+      <description>Health Digital Id information for Wilkes &amp;amp; Liberty</description>
     </item>
     <item>
-      <title>AI for Financial Optimization</title>
-      <link>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</link>
+      <title>Digital Modernization</title>
+      <link>http://localhost:1313/solutions/digital-modernization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/ai-for-financial-optimization/</guid>
-      <description>&lt;h1 id=&#34;ai-for-financial-optimization-economic-liberation-through-intelligence&#34;&gt;AI for Financial Optimization: Economic Liberation Through Intelligence&lt;/h1&gt;&#xA;&lt;p&gt;Following Wilkes&amp;rsquo; fierce opposition to unjust taxation and economic oppression, our Financial AI liberates your resources from inefficiency, surveillance, and institutional control—delivering sovereign wealth optimization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;financial-independence-through-artificial-intelligence&#34;&gt;Financial Independence Through Artificial Intelligence&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-wealth-intelligence&#34;&gt;Sovereign Wealth Intelligence&lt;/h3&gt;&#xA;&lt;p&gt;Your financial data and strategies remain completely private while our AI maximizes your economic potential. No banks monitoring your moves, no governments tracking your optimization, no corporations mining your wealth patterns.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digital Identity Management Product</title>
-      <link>https://www.wilkesliberty.com/solutions/digital-identity-management-product/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/digital-identity-management-product/</guid>
-      <description>Ready-to-deploy digital identity management product offering sovereign control, decentralized authentication, and privacy-first identity verification.</description>
-    </item>
-    <item>
-      <title>Digital Infrastructure Platform</title>
-      <link>https://www.wilkesliberty.com/solutions/digital-infrastructure-platform/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/digital-infrastructure-platform/</guid>
-      <description>Complete digital infrastructure platform offering sovereign hosting, secure networking, and autonomous system management for organizational independence.</description>
+      <guid>http://localhost:1313/solutions/digital-modernization/</guid>
+      <description>Comprehensive digital modernization solutions that liberate organizations from legacy constraints and bureaucratic bottlenecks.</description>
     </item>
     <item>
       <title>Private LLMs</title>
-      <link>https://www.wilkesliberty.com/solutions/private-llms/</link>
+      <link>http://localhost:1313/solutions/private-llms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/private-llms/</guid>
+      <guid>http://localhost:1313/solutions/private-llms/</guid>
       <description>&lt;h1 id=&#34;private-llms-intelligent-liberation-from-ai-surveillance&#34;&gt;Private LLMs: Intelligent Liberation from AI Surveillance&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Just as Wilkes refused to surrender intellectual freedom to authoritarian control, our Private Large Language Models ensure your AI capabilities serve your mission without exposing your data to surveillance networks.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Revolutionary Large Language Model solutions that deliver cutting-edge AI capabilities while maintaining complete data sovereignty, operational independence, and zero external dependencies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;&#xA;&lt;p&gt;Corporate AI services extract maximum value from your data while delivering minimum control over your intelligence:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Product AI</title>
-      <link>https://www.wilkesliberty.com/solutions/product-ai/</link>
+      <link>http://localhost:1313/solutions/product-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/product-ai/</guid>
+      <guid>http://localhost:1313/solutions/product-ai/</guid>
       <description>&lt;h1 id=&#34;product-ai-intelligence-without-oppression&#34;&gt;Product AI: Intelligence Without Oppression&lt;/h1&gt;&#xA;&lt;p&gt;Channeling Wilkes&amp;rsquo; intellectual rebellion against tyrannical systems, our Product AI delivers revolutionary intelligence that serves your vision—not corporate overlords or surveillance networks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artificial-intelligence-genuine-liberty&#34;&gt;Artificial Intelligence, Genuine Liberty&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sovereign-ai-systems&#34;&gt;Sovereign AI Systems&lt;/h3&gt;&#xA;&lt;p&gt;Your AI belongs to you alone. No external training on your data, no backdoors for surveillance agencies, no corporate manipulation of your intelligent systems. Pure, autonomous intelligence under your complete control.&lt;/p&gt;&#xA;&lt;h3 id=&#34;revolutionary-ai-philosophy&#34;&gt;Revolutionary AI Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Traditional AI systems are designed to extract, monitor, and control. Our Product AI is built on the radical principle that artificial intelligence should amplify human freedom, not diminish it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zero Trust</title>
-      <link>https://www.wilkesliberty.com/solutions/zero-trust/</link>
+      <link>http://localhost:1313/solutions/zero-trust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.wilkesliberty.com/solutions/zero-trust/</guid>
+      <guid>http://localhost:1313/solutions/zero-trust/</guid>
       <description>&lt;h1 id=&#34;zero-trust-absolute-verification-absolute-freedom&#34;&gt;Zero Trust: Absolute Verification, Absolute Freedom&lt;/h1&gt;&#xA;&lt;p&gt;Embodying Wilkes&amp;rsquo; fundamental skepticism of all authority, our Zero Trust architecture treats every entity as potentially hostile until proven otherwise—creating impenetrable digital fortresses that protect your sovereignty.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trust-nothing-verify-everything&#34;&gt;Trust Nothing, Verify Everything&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-revolutionary-security-philosophy&#34;&gt;The Revolutionary Security Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;John Wilkes never accepted authority at face value, and neither should your security systems. Our Zero Trust model assumes breach, questions every request, and grants access only after rigorous, continuous verification.&lt;/p&gt;</description>
     </item>
   </channel>

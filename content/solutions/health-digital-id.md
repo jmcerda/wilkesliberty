@@ -1,30 +1,37 @@
 ---
 # Basic page information
-title: "Finance Ai Optimization"  # Automatically generates title from filename
-url: /about/finance-ai-optimization/  # URL path for this about page
+title: "Health Digital Id"  # Automatically generates title from filename
+url: /solutions/health-digital-id/
 
-# Menu configuration - adds page to About dropdown
+# Menu configuration - adds page to Solutions dropdown
 menu:
   main:
-    parent: "about"  # Must match the About section identifier
-    weight: 50  # Controls order in menu - adjust as needed
+    parent: "solutions"  # Must match the Solutions section identifier
+    weight: 70  # Controls order in menu - adjust as needed
     
 # Page metadata
-summary: "Finance Ai Optimization information for Wilkes & Liberty"  # Used in page cards and SEO
+summary: "Health Digital Id information for Wilkes & Liberty"  # Used in page cards and SEO
 draft: false  # Set to true to hide from production builds
 date: 2025-08-11T20:53:10-04:00  # Creation date
 
 # Optional: Add featured image
-# featured_image: "/images/about/finance-ai-optimization.jpg"
+# featured_image: "/images/about/health-digital-id.jpg"
 
 # Optional: Add page type for styling
 # page_type: "about"  # Can be used for custom CSS styling
 # show_contact_cta: true  # Show contact call-to-action at bottom
 ---
 
-# Finance Ai Optimization: [Descriptive Subtitle]
+# Healthcare Digital Identity: Patient-Sovereign Identity Management
 
-Following Wilkes' commitment to [relevant principle], [brief description of what this about page covers].
+*"Following Wilkes' commitment to individual rights against institutional control, this case study demonstrates how a healthcare system implemented digital identity management that puts patients in complete control of their medical identity and data."*
+
+**Client:** Regional Healthcare Network  
+**Industry:** Healthcare  
+**Duration:** 10 months  
+**Scope:** Multi-facility patient identity system  
+
+A comprehensive digital identity implementation that achieved seamless patient care coordination while maintaining complete patient sovereignty over medical identity and data access.
 
 ## [Main Section Title]
 

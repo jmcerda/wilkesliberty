@@ -90,9 +90,8 @@ Our content management technologies embody principles of digital liberation:
 ## Getting Started with Content Sovereignty
 
 **Explore Our Content Management Solutions:**
-- [Content Management Consulting](/services/content-management-consulting/) for strategic implementation and migration services
-- [Digital Infrastructure Platform](/solutions/digital-infrastructure-platform/) for sovereign hosting and content delivery
 - [Drupal CMS](/technology/content-management/drupal-cms/) for detailed technical specifications and capabilities
+- Custom content management implementations for strategic sovereignty and editorial independence
 
 **Ready to Achieve Editorial Sovereignty?**
 
