@@ -14,13 +14,34 @@
     <loc>https://www.wilkesliberty.com/about/</loc>
     <lastmod>2025-08-11T20:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://www.wilkesliberty.com/about/case-studies/</loc>
+    <loc>https://www.wilkesliberty.com/about/resources/case-studies/</loc>
     <lastmod>2025-08-11T20:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://www.wilkesliberty.com/about/finance-ai-optimization/</loc>
+    <loc>https://www.wilkesliberty.com/categories/case-studies/</loc>
     <lastmod>2025-08-11T20:53:10-04:00</lastmod>
   </url><url>
-    <loc>https://www.wilkesliberty.com/about/health-digital-id/</loc>
+    <loc>https://www.wilkesliberty.com/tags/case-studies/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/categories/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/tags/client-results/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/about/resources/case-studies/finance-ai-optimization/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/about/resources/case-studies/health-digital-id/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/categories/success-stories/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/tags/success-stories/</loc>
+    <lastmod>2025-08-11T20:53:10-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/tags/</loc>
     <lastmod>2025-08-11T20:53:10-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/</loc>
@@ -45,9 +66,6 @@
     <lastmod>2025-08-11T20:53:09-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/tags/capabilities/</loc>
-    <lastmod>2025-08-11T20:53:09-04:00</lastmod>
-  </url><url>
-    <loc>https://www.wilkesliberty.com/categories/</loc>
     <lastmod>2025-08-11T20:53:09-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/tags/consulting/</loc>
@@ -95,9 +113,6 @@
     <loc>https://www.wilkesliberty.com/solutions/</loc>
     <lastmod>2025-08-11T20:53:09-04:00</lastmod>
   </url><url>
-    <loc>https://www.wilkesliberty.com/tags/</loc>
-    <lastmod>2025-08-11T20:53:09-04:00</lastmod>
-  </url><url>
     <loc>https://www.wilkesliberty.com/tags/xrp-ledger/</loc>
     <lastmod>2025-08-11T20:53:09-04:00</lastmod>
   </url><url>
@@ -119,6 +134,9 @@
     <loc>https://www.wilkesliberty.com/tags/content-management/</loc>
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
+    <loc>https://www.wilkesliberty.com/technology/content-management/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
+  </url><url>
     <loc>https://www.wilkesliberty.com/tags/decentralized-credentials/</loc>
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
@@ -134,10 +152,16 @@
     <loc>https://www.wilkesliberty.com/solutions/digital-identity-platforms/</loc>
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
+    <loc>https://www.wilkesliberty.com/tags/digital-liberation/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
+  </url><url>
     <loc>https://www.wilkesliberty.com/categories/digital-sovereignty/</loc>
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/tags/drupal/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/tags/editorial-sovereignty/</loc>
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/categories/identity-management/</loc>
@@ -159,6 +183,9 @@
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/categories/solutions/</loc>
+    <lastmod>2025-08-11T15:51:06-04:00</lastmod>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/categories/technology/</loc>
     <lastmod>2025-08-11T15:51:06-04:00</lastmod>
   </url><url>
     <loc>https://www.wilkesliberty.com/technology/</loc>
@@ -194,7 +221,9 @@
   </url><url>
     <loc>https://www.wilkesliberty.com/services/cybersecurity/</loc>
   </url><url>
-    <loc>https://www.wilkesliberty.com/technology/digital-identity-management/</loc>
+    <loc>https://www.wilkesliberty.com/tags/decentralized-identity/</loc>
+  </url><url>
+    <loc>https://www.wilkesliberty.com/solutions/digital-identity-management-product/</loc>
   </url><url>
     <loc>https://www.wilkesliberty.com/solutions/digital-infrastructure-platform/</loc>
   </url><url>
@@ -208,6 +237,8 @@
   </url><url>
     <loc>https://www.wilkesliberty.com/industries/health/</loc>
   </url><url>
+    <loc>https://www.wilkesliberty.com/tags/identity-management/</loc>
+  </url><url>
     <loc>https://www.wilkesliberty.com/industries/</loc>
   </url><url>
     <loc>https://www.wilkesliberty.com/tags/infrastructure/</loc>
@@ -218,7 +249,7 @@
   </url><url>
     <loc>https://www.wilkesliberty.com/industries/legal/</loc>
   </url><url>
-    <loc>https://www.wilkesliberty.com/technology/blockchain/logistics-supply-chain-management/</loc>
+    <loc>https://www.wilkesliberty.com/services/logistics-supply-chain/</loc>
   </url><url>
     <loc>https://www.wilkesliberty.com/about/press-releases/</loc>
   </url><url>

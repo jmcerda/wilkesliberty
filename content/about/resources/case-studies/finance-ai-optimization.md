@@ -1,7 +1,7 @@
 ---
 # Basic page information
 title: "Finance Ai Optimization"  # Automatically generates title from filename
-url: /about/finance-ai-optimization/  # URL path for this about page
+url: /about/resources/case-studies/finance-ai-optimization/
 
 # Menu configuration - adds page to About dropdown
 menu:

@@ -1,7 +1,7 @@
 ---
 # Basic page information
 title: "Health Digital Id"  # Automatically generates title from filename
-url: /about/health-digital-id/  # URL path for this about page
+url: /about/resources/case-studies/health-digital-id/
 
 # Menu configuration - adds page to About dropdown
 menu:

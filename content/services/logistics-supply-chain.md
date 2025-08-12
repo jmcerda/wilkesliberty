@@ -1,10 +1,10 @@
 ---
 title: "Logistics & Supply Chain Management"
-url: /technology/blockchain/logistics-supply-chain-management/
+url: /services/logistics-supply-chain/
 menu:
   main:
-    parent: "blockchain"
-    weight: 20
+    parent: "services"
+    weight: 25
 ---
 
 # Logistics & Supply Chain Management: Autonomous Operations Beyond Control
