@@ -14,7 +14,11 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 │   │   ├── contract-vehicles.md
 │   │   ├── leadership.md
 │   │   ├── press-releases.md
-│   │   └── resources.md
+│   │   ├── resources.md
+│   │   └── resources/      # Resources subsection
+│   │       └── case-studies/ # Case studies
+│   ├── capabilities/       # Organizational capabilities (NEW)
+│   │   └── _index.md       # Capabilities landing page
 │   ├── industries/         # Industry-specific solutions
 │   │   ├── _index.md       # Industries landing page
 │   │   ├── civil.md
@@ -60,6 +64,8 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 │   └── js/               # JavaScript files
 ├── archetypes/           # Content templates with detailed comments
 │   ├── about.md         # About page template with front matter examples
+│   ├── capabilities.md  # Capabilities page template with competency fields
+│   ├── case-studies.md  # Case studies template with project metrics
 │   ├── default.md       # Default template for general content
 │   ├── industries.md    # Industry page template with industry-specific options
 │   ├── services.md      # Service page template with delivery models
@@ -72,11 +78,12 @@ Digital liberation through sovereign technology solutions. This Hugo-based websi
 ## Content Organization
 
 ### Main Sections
-- **Technology**: Core technical capabilities
-- **Solutions**: Product-based offerings
-- **Services**: Professional services
-- **Industries**: Industry-specific solutions  
-- **About**: Company information
+- **Technology**: Core technical capabilities and deep-dives
+- **Solutions**: Product-based offerings and platforms
+- **Services**: Professional services and consulting
+- **Capabilities**: Organizational competencies and sovereign practices (NEW)
+- **Industries**: Industry-specific solutions and applications
+- **About**: Company information and resources
 
 ### Content Standards
 All content follows the "Digital Liberation" theme:
@@ -129,6 +136,16 @@ hugo new about/new-page.md
 #### Create a new technology page:
 ```bash
 hugo new technology/new-technology.md
+```
+
+#### Create a new capability page:
+```bash
+hugo new capabilities/new-capability.md
+```
+
+#### Create a new case study:
+```bash
+hugo new about/resources/case-studies/new-case-study.md
 ```
 
 ## Configuration
